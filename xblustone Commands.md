@@ -1,11 +1,11 @@
-# xblustone Commands (Last Updated 22/05/2023 7:00:22 PM)
+# xblustone Commands (Last Updated 22/05/2023 7:01:19 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
  <br>giveballs<Give someone Balls | !giveballs (@user) (amount)
  <br>ballboard<View The Leaderboard
  <br>freeballs<Get 100 Free Balls once per stream
- <br>floor<Check the floor for any {Program.config.currencies} | {Program.config.prefix}floor
+ <br>floor<!Floor has disabled by the streamer
  <br>editballs<[STREAMER] Edit a users Balls | !editballs (optional @user) (amount) | edit gold !editballs (@user) (amount) gold
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip !GuessTheNum !OneUps
  <br>openminigames<Unlocks the minigames for 8 minutes, can be stacked | !openminigames (costs 10000 Balls)
@@ -33,7 +33,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
  <br>about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
  <br>about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
- <br>tts<Get Text To Speech | !tts (text) (costs 150 Balls)
+ <br>tts<Get Text To Speech | !tts (text) (costs 250 Balls)
  <br>stopsound<[MOD] Stops the tts and any other sounds the bot is playing | !stopsound or !ss
  <br>listvoices<[STREAMER] Get a list of all the voices you can use for tts in console
  <br>allcommands<[STREAMER] Get a list of all the commands in console
