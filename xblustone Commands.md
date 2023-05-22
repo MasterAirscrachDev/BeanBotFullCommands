@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 22/05/2023 7:01:19 PM)
+# xblustone Commands (Last Updated 22/05/2023 7:12:09 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -25,7 +25,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Balls for 10M, 2: 2.5K Balls for 20M, 3: 5K Balls for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
- <br>drop<collect a drop of 50 balls | !drop
+ <br>drop<collect a drop of 250 balls | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
@@ -63,5 +63,4 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>giga<Summons GIGAMONTY | 3,000 Balls
  <br>monty<Summons MONTY | 1,500 Balls
  <br>roxy<Summons Roxy | 1,000 Balls
- <br>sb<lists my FNAF: Security Breach commands
  <br>
