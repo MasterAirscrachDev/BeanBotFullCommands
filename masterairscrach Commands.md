@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 22/05/2023 2:51:50 PM)
+# masterairscrach Commands (Last Updated 22/05/2023 2:58:18 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -39,24 +39,8 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>prestige<Prestige your Beans | !prestige (costs 1,000,000,000 Beans)
  <br>cows<Nothing can save you now
 ### Custom Commands
-bingchilling<BING CHILLING | 250 Beans
- <br>bombs<Lamp Oil, Rope, BOMBS | 25 Beans
- <br>boom<Vineboom | 5 Beans
- <br>bot<Here are the cool bot commands
- <br>chungus<BIG CHUNGUS | 1,000 Beans
- <br>death<YOu Died | 30 Beans
- <br>emergency<Call an emergency meeting | 25 Beans
- <br>jumpscare<Plays The Jumpscare Sound | 1,000 Beans
- <br>laugh<Lol Moment | 100 Beans
+bot<Here are the cool bot commands
  <br>penis<say penis | 1,000,000 Beans
- <br>pipe<CRASH | 25 Beans
- <br>request<Info On Requesting songs
- <br>scout<Plays A Random Scout Voiceline | 50 Beans
- <br>supershit<How'd you fuck that one up that badly | 25 Beans
- <br>testing<A Testing command
- <br>ticking<TickTickTickTickTickTickTickTickTick | 1,000 Beans
- <br>vent<Have you heard of among us | 1,000 Beans
- <br>welldone<Well Done Gregory | 25 Beans
  <br>discord<Link The Discord
  <br>fishtank<Get The Fishtank Link
  <br>hot<Come on, you know who it is
@@ -64,4 +48,19 @@ bingchilling<BING CHILLING | 250 Beans
  <br>server<Info About our minecraft servers
  <br>trade<My Steam Trade Link
  <br>waterwolf<Waterwolf Channel Link
+ <br>portal<Here are the Portal Commands
+ <br>bingchilling<BING CHILLING | 250 Beans
+ <br>bombs<Lamp Oil, Rope, BOMBS | 25 Beans
+ <br>boom<Vineboom | 5 Beans
+ <br>chungus<BIG CHUNGUS | 1,000 Beans
+ <br>death<YOu Died | 30 Beans
+ <br>emergency<Call an emergency meeting | 25 Beans
+ <br>jumpscare<Plays The Jumpscare Sound | 1,000 Beans
+ <br>laugh<Lol Moment | 100 Beans
+ <br>pipe<CRASH | 25 Beans
+ <br>scout<Plays A Random Scout Voiceline | 50 Beans
+ <br>supershit<How'd you fuck that one up that badly | 25 Beans
+ <br>ticking<TickTickTickTickTickTickTickTickTick | 1,000 Beans
+ <br>vent<Have you heard of among us | 1,000 Beans
+ <br>welldone<Well Done Gregory | 25 Beans
  <br>
