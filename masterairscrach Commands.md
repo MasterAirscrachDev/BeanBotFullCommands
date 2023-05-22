@@ -1,11 +1,11 @@
-# masterairscrach Commands (Last Updated 22/05/2023 2:34:05 PM)
+# masterairscrach Commands (Last Updated 22/05/2023 2:51:50 PM)
 ### Base Commands
-<The Help Command | Catagories: Beans, Minigames, Events, About, TTS
+help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
  <br>givebeans<Give someone Beans | !givebeans (@user) (amount)
  <br>beanboard<View The Leaderboard
  <br>freebeans<Get 500 Free Beans once per stream
- <br>floor<Check the floor for any Beans | !floor
+ <br>floor<Check the floor for any {Program.config.currencies} | {Program.config.prefix}floor
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip !GuessTheNum !OneUps
  <br>openminigames<Unlocks the minigames for 8 minutes, can be stacked | !openminigames (costs 10000 Beans)
  <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount])
@@ -25,7 +25,7 @@
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
  <br>drop<collect a drop of 100 beans | !drop
- <br>setcounter<[MOD]Set the counter for an event | !setcounter (name)
+ <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
  <br>about bot<(Running BeanBot.exe v1.1.0) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
