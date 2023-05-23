@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 23/05/2023 12:42:30 AM)
+# masterairscrach Commands (Last Updated 23/05/2023 6:36:41 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -8,7 +8,7 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>floor<Check the floor for any {Program.config.currencies} | {Program.config.prefix}floor
  <br>editbeans<[STREAMER] Edit a users Beans | !editbeans (optional @user) (amount) | edit gold !editbeans (@user) (amount) gold
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip !GuessTheNum !OneUps
- <br>openminigames<Unlocks the minigames for 6 minutes, can be stacked | !openminigames (costs 10,000 Beans)
+ <br>openminigames<Unlocks the minigames for 8 minutes, can be stacked | !openminigames (costs 10000 Beans)
  <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount])
  <br>guessthenum<Guess a number between 1-5 a correct guess gives 5x bet | !guessthenum (num[1-5]) (amount)
  <br>oneups<Play a game of 1up, where you must pick the highest number not picked by anyone else | !oneups (bet)
@@ -52,6 +52,10 @@ bot<Here are the cool bot commands
  <br>server<Info About our minecraft servers
  <br>trade<My Steam Trade Link
  <br>waterwolf<Waterwolf Channel Link
+ <br>blueportal<Shoots the Blue Portal | 200 Beans
+ <br>e<E | 300 Beans
+ <br>orangeportal<Shoots the Orange Portal | 200 Beans
+ <br>portal<Here are the Portal Commands
  <br>bingchilling<BING CHILLING | 250 Beans
  <br>bombs<Lamp Oil, Rope, BOMBS | 25 Beans
  <br>boom<Vineboom | 5 Beans
