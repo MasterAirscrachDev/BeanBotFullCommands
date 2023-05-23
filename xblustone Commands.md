@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 23/05/2023 4:29:58 PM)
+# xblustone Commands (Last Updated 23/05/2023 4:31:33 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -57,11 +57,4 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>ticking<Ticking | 700 Balls
  <br>welldone<welldone | 600 Balls
  <br>wizard<wizard | 500 Balls
- <br>babymonty<Summons BABYMONTY | 2,500 Balls
- <br>brokenchica<Summons Chica | 2,500 Balls
- <br>chica<Summons Chica | 2,000 Balls
- <br>endo<Summons ENDO | 1,000 Balls
- <br>giga<Summons GIGAMONTY | 3,000 Balls
- <br>monty<Summons MONTY | 1,500 Balls
- <br>roxy<Summons Roxy | 1,000 Balls
  <br>
