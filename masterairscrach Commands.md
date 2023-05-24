@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 23/05/2023 6:37:08 PM)
+# masterairscrach Commands (Last Updated 24/05/2023 11:43:39 AM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -44,7 +44,9 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>cows<Nothing can save you now
 ### Custom Commands
 bot<Here are the cool bot commands
+ <br>cat<I have to wear cat ears for 10 minutes | 100,000 Beans
  <br>penis<say penis | 1,000,000 Beans
+ <br>whiteboard<Request me to draw somthing on the whitboard (must obey Twitch TOS) | 50,000 Beans
  <br>discord<Link The Discord
  <br>fishtank<Get The Fishtank Link
  <br>hot<Come on, you know who it is
@@ -66,6 +68,7 @@ bot<Here are the cool bot commands
  <br>laugh<Lol Moment | 100 Beans
  <br>pipe<CRASH | 25 Beans
  <br>scout<Plays A Random Scout Voiceline | 50 Beans
+ <br>sounds<Here are the sound effects
  <br>supershit<How'd you fuck that one up that badly | 25 Beans
  <br>ticking<TickTickTickTickTickTickTickTickTick | 1,000 Beans
  <br>vent<Have you heard of among us | 1,000 Beans
