@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 24/05/2023 7:13:35 PM)
+# xblustone Commands (Last Updated 24/05/2023 7:48:02 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -47,7 +47,7 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>cam<[COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 500 Balls
  <br>eject<[EJECTS ME FROM THE BEAR] | 200 Balls
  <br>emergency<Emergency SUSSY SUSSY | 1,000 Balls
- <br>espam<[SPAMS "E". COULD ALSO BE USED TO KILL ME?] | 1,000 Balls
+ <br>espam<[SPAMS "E". COULD ALSO BE USED TO KILL ME?] | 100 Balls
  <br>gun<[COULD BE USED TO DRAIN MY BLASTER] | 450 Balls
  <br>hello<BB Hello :D | 150 Balls
  <br>honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
@@ -55,11 +55,11 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>laugh<hahahah LOL | 2,000 Balls
  <br>light<[COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 500 Balls
  <br>pipe<ahhhh PIPES | 250 Balls
- <br>qspam<[SPAMS FREDDY CALLS, MAKES IT HARDER TO GET THE BEAR] | 1,000 Balls
+ <br>qspam<[SPAMS FREDDY CALLS, MAKES IT HARDER TO GET THE BEAR] | 200 Balls
  <br>run<[MAKES ME RUN FORWARD] | 400 Balls
  <br>sb<lists my FNAF: Security Breach commands
  <br>sound<lists of sounds: !pipe | !rats | !wizard | !number1
- <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,000 Balls
+ <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 500 Balls
  <br>terrible<Terrible | 500 Balls
  <br>ticking<Ticking | 700 Balls
  <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
