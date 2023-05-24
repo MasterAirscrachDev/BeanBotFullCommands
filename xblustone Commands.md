@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 24/05/2023 6:37:21 PM)
+# xblustone Commands (Last Updated 24/05/2023 6:41:05 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -44,21 +44,21 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>cows<Nothing can save you now
 ### Custom Commands
 bombs<3 2 1 BOOM! (BOMB) | 500 Balls
- <br>cam<Spams "spams my light" [COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 500 Balls
- <br>eject<Ejects me from Freddy if im in him | 200 Balls
+ <br>cam<Spams[COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 500 Balls
+ <br>eject<[EJECTS ME FROM THE BEAR] | 200 Balls
  <br>emergency<Emergency SUSSY SUSSY | 1,000 Balls
- <br>espam<Spams "E" [Could be used in E spam room to kill me?] | 1,000 Balls
- <br>gun<Spams "spams my light" [COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 450 Balls
+ <br>espam<Spams "E" [COULD BE USED TO KILL ME?] | 1,000 Balls
+ <br>gun<Spams "[COULD BE USED TO DRAIN MY BLASTER] | 450 Balls
  <br>hello<BB Hello :D | 150 Balls
  <br>honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
  <br>jumpscare<JUMPSCARE OOOO SCAWWY | 2,500 Balls
  <br>laugh<laugh | 2,000 Balls
  <br>light<Spams "spams my light" [COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 500 Balls
  <br>pipe<Pipes | 250 Balls
- <br>qspam<Spams "Q" To call Freddy or TP Freddy away from me. | 1,000 Balls
+ <br>qspam<[SPAMS FREDDY CALLS, MAKES IT HARDER TO GET THE BEAR] | 1,000 Balls
  <br>sb<lists my FNAF: Security Breach commands
  <br>sound<lists of sounds: !pipe | !rats | !wizard | !number1
- <br>stop<Stops me from moving for 10-15 seconds. | 1,000 Balls
+ <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,000 Balls
  <br>terrible<Terrible | 500 Balls
  <br>ticking<Ticking | 700 Balls
  <br>welldone<welldone | 600 Balls
