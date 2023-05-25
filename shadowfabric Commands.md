@@ -1,4 +1,4 @@
-# shadowfabric Commands (Last Updated 25/05/2023 3:02:47 PM)
+# shadowfabric Commands (Last Updated 25/05/2023 3:08:21 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/shadowfabric%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -43,6 +43,14 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>prestige<Prestige your Beans | !prestige (costs 1,000,000,000 Beans)
  <br>cows<Nothing can save you now
 ### Custom Commands
-mc<Lists all commands for Minecraft
+bingchilling<Zǎoshang hǎo zhōngguó xiànzài wǒ yǒu BING CHILLING | 100 Beans
+ <br>chungus<BIG BIG CHUNGUS | 100 Beans
+ <br>creeper<Plays the sound of a creeper | 50 Beans
+ <br>dancing<Plays Dancing, Walking Rearaging furniture | 100 Beans
+ <br>pipe<metal pipe falling | 25 Beans
  <br>sounds<Lists all the current sounds that are active
+ <br>stab<Breaks my ears, but also your ears | 100 Beans
+ <br>vent<Plays the You Need To Vent Sound | 100 Beans
+ <br>weezer<Plays the weezer riff | 100 Beans
+ <br>whopper<Plays the Whopper audio | 100 Beans
  <br>
