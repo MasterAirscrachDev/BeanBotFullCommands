@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 25/05/2023 12:39:21 PM)
+# xblustone Commands (Last Updated 25/05/2023 12:41:49 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -44,11 +44,11 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>cows<Nothing can save you now
 ### Custom Commands
 bombs<3 2 1 BOOM! (BOMB) | 500 Balls
- <br>cam<[COULD BE USED TO DRAIN MY BATTERY ON MY FLASH LIGHT] | 600 Balls
+ <br>cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 600 Balls
  <br>eject<[EJECTS ME FROM THE BEAR] | 200 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>espam<[SPAMS "E". COULD ALSO BE USED TO KILL ME?] | 250 Balls
- <br>gun<[COULD BE USED TO DRAIN MY BLASTER] | 450 Balls
+ <br>gun<[COULD BE USED TO SWAP TO MY BLASTER] | 450 Balls
  <br>hello<BB Hello :D | 150 Balls
  <br>honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
  <br>jumpscare<JUMPSCARE OOOO SCAWWY | 2,500 Balls
@@ -62,6 +62,7 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 600 Balls
  <br>terrible<Terrible | 500 Balls
  <br>ticking<Ticking | 700 Balls
+ <br>upgradekill<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 500 Balls
  <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
  <br>welldone<welldone | 600 Balls
  <br>wizard<wizard | 500 Balls
