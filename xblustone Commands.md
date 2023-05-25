@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 25/05/2023 6:35:59 PM)
+# xblustone Commands (Last Updated 25/05/2023 6:37:12 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -8,7 +8,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>floor<!Floor has disabled by the streamer
  <br>editballs<[STREAMER] Edit a users Balls | !editballs (optional @user) (amount) | edit gold !editballs (@user) (amount) gold
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip !GuessTheNum !OneUps
- <br>openminigames<Unlocks the minigames for 8 minutes, can be stacked | !openminigames (costs 10000 Balls)
+ <br>openminigames<Unlocks the minigames for 3 minutes, can be stacked | !openminigames (costs 100,000 Balls)
  <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount])
  <br>guessthenum<Guess a number between 1-5 a correct guess gives 5x bet | !guessthenum (num[1-5]) (amount)
  <br>oneups<Play a game of 1up, where you must pick the highest number not picked by anyone else | !oneups (bet)
@@ -29,7 +29,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
- <br>about bot<(Running BeanBot.exe v1.1.0) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
+ <br>about bot<(Running BeanBot.exe v1.1.1) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
  <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
  <br>about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
  <br>about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
