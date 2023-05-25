@@ -1,4 +1,4 @@
-# shadowfabric Commands (Last Updated 25/05/2023 4:10:08 PM)
+# shadowfabric Commands (Last Updated 25/05/2023 5:00:59 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/shadowfabric%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
