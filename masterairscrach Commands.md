@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 25/05/2023 9:40:19 PM)
+# masterairscrach Commands (Last Updated 26/05/2023 12:06:30 AM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -37,7 +37,7 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>stopsound<[MOD] Stops the tts and any other sounds the bot is playing | !stopsound or !ss
  <br>listvoices<[STREAMER] Get a list of all the voices you can use for tts in console
  <br>allcommands<[STREAMER] Get a list of all the commands in console
- <br>openconfig<[STREAMER] Opens the config file for the bot
+ <br>openconfig<[STREAMER] Opens the config folder for the bot
  <br>goldenBean<activates the power of a golden Bean
  <br>reload<[MOD] Reloads the config file and all custom commands | !reload
  <br>prestige<Prestige your Beans | !prestige (costs 1,000,000,000 Beans)
