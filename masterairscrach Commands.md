@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 25/05/2023 5:42:51 PM)
+# masterairscrach Commands (Last Updated 25/05/2023 9:40:19 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -53,10 +53,6 @@ bot<Here are the cool bot commands
  <br>server<Info About our minecraft servers
  <br>trade<My Steam Trade Link
  <br>waterwolf<Waterwolf Channel Link
- <br>blueportal<Shoots the Blue Portal | 200 Beans
- <br>e<E | 300 Beans
- <br>orangeportal<Shoots the Orange Portal | 200 Beans
- <br>portal<Here are the Portal Commands
  <br>bingchilling<BING CHILLING | 250 Beans
  <br>bombs<Lamp Oil, Rope, BOMBS | 25 Beans
  <br>boom<Vineboom | 5 Beans
