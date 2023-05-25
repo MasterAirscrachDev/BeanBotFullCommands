@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 25/05/2023 12:41:49 PM)
+# xblustone Commands (Last Updated 25/05/2023 12:42:03 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -52,6 +52,7 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>hello<BB Hello :D | 150 Balls
  <br>honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
  <br>jumpscare<JUMPSCARE OOOO SCAWWY | 2,500 Balls
+ <br>kill<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 500 Balls
  <br>laugh<hahahah LOL | 2,000 Balls
  <br>light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
  <br>pipe<ahhhh PIPES | 250 Balls
@@ -62,7 +63,6 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 600 Balls
  <br>terrible<Terrible | 500 Balls
  <br>ticking<Ticking | 700 Balls
- <br>upgradekill<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 500 Balls
  <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
  <br>welldone<welldone | 600 Balls
  <br>wizard<wizard | 500 Balls
