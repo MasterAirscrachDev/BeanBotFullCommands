@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 26/05/2023 12:06:49 PM)
+# xblustone Commands (Last Updated 26/05/2023 12:07:38 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
