@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 26/05/2023 6:37:29 PM)
+# xblustone Commands (Last Updated 26/05/2023 6:37:59 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -44,15 +44,8 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>cows<Nothing can save you now
 ### Custom Commands
 draw<Cards Test | 100 Balls
+ <br>drop<[CAN BE USED TO DROP AN ITEM] | 200 Balls
  <br>mc<lists my FNAF: Security Breach commands
- <br>cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 600 Balls
- <br>eject<[EJECTS ME FROM THE BEAR] | 200 Balls
- <br>gun<[COULD BE USED TO SWAP TO MY BLASTER] | 450 Balls
- <br>kill<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
- <br>light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
- <br>run<[MAKES ME RUN FORWARD] | 400 Balls
- <br>sb<lists my FNAF: Security Breach commands
- <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
  <br>bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>hello<BB Hello :D | 150 Balls
