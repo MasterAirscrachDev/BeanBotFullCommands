@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 26/05/2023 12:07:38 PM)
+# xblustone Commands (Last Updated 26/05/2023 2:32:48 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -25,7 +25,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Balls for 10M, 2: 2.5K Balls for 20M, 3: 5K Balls for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
- <br>drop<collect a drop of 250 balls | !drop
+ <br>drop<collect a drop of 300 balls | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
@@ -33,7 +33,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
  <br>about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
  <br>about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
- <br>tts<Get Text To Speech | !tts (text) (costs 250 Balls)
+ <br>tts<Get Text To Speech | !tts (text) (costs 100 Balls)
  <br>stopsound<[MOD] Stops the tts and any other sounds the bot is playing | !stopsound or !ss
  <br>listvoices<[STREAMER] Get a list of all the voices you can use for tts in console
  <br>allcommands<[STREAMER] Get a list of all the commands in console
@@ -47,12 +47,12 @@ bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>hello<BB Hello :D | 150 Balls
  <br>honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
- <br>jumpscare<JUMPSCARE OOOO SCAWWY | 2,500 Balls
- <br>laugh<hahahah LOL | 2,000 Balls
- <br>pipe<ahhhh PIPES | 250 Balls
+ <br>jumpscare<JUMPSCARE OOOO SCAWWY | 500 Balls
+ <br>laugh<hahahah LOL | 200 Balls
+ <br>pipe<ahhhh PIPES | 200 Balls
  <br>sound<lists of sounds: !pipe | !rats | !wizard | !number1
- <br>terrible<Terrible | 500 Balls
- <br>ticking<Ticking | 700 Balls
- <br>welldone<welldone | 600 Balls
- <br>wizard<wizard | 500 Balls
+ <br>terrible<Terrible | 200 Balls
+ <br>ticking<Ticking | 300 Balls
+ <br>welldone<welldone | 400 Balls
+ <br>wizard<wizard | 100 Balls
  <br>
