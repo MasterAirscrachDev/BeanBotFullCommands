@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 26/05/2023 6:42:55 PM)
+# xblustone Commands (Last Updated 26/05/2023 6:44:23 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -46,6 +46,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
 draw<Cards Test | 100 Balls
  <br>drop<[CAN BE USED TO DROP AN ITEM] | 200 Balls
  <br>mc<lists my FNAF: Security Breach commands
+ <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 600 Balls
  <br>bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>hello<BB Hello :D | 150 Balls
