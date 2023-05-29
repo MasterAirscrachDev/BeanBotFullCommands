@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 29/05/2023 11:06:18 PM)
+# masterairscrach Commands (Last Updated 29/05/2023 11:06:57 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -47,12 +47,12 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
 bot<Here are the cool bot commands
  <br>cat<I have to wear cat ears for 10 minutes (stackable) | 40,000 Beans
  <br>penis<say penis | 1,000,000 Beans
+ <br>boing<Do a flip | 50 Beans
  <br>crouch<Cancels My Sprint | 400 Beans
  <br>eject<Ejects me from Freddy if im in him | 300 Beans
  <br>freddy<Summons Freddy if i can | 100 Beans
  <br>maze<Mazercize Code
  <br>sb<lists my FNAF: Security Breach commands
- <br>sbjump<Do a flip | 50 Beans
  <br>discord<Link The Discord
  <br>fishtank<Get The Fishtank Link
  <br>hot<Come on, you know who it is
