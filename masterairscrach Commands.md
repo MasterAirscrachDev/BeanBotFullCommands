@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 29/05/2023 8:45:52 PM)
+# masterairscrach Commands (Last Updated 29/05/2023 9:06:17 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -7,11 +7,13 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>freebeans<Get 500 Free Beans once per stream
  <br>floor<Check the floor for any {Program.config.currencies} | {Program.config.prefix}floor
  <br>editbeans<[STREAMER] Edit a users Beans | !editbeans (optional @user) (amount) | edit gold !editbeans (@user) (amount) gold
- <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath
+ <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath 
  <br>openminigames<Unlocks the minigames for 6 minutes, can be stacked | !openminigames (costs 10,000 Beans)
- <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount])
+ <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount]) betting is capped at 1000 Beans
+ <br>quickmath<Answer a math question in a timelimit, your are awarded based on the complexity | !quickmath | !answer (answer rounded to 1 decimal place)
+ <br>answer<Answer a math question in a timelimit, your are awarded based on the complexity | !quickmath | !answer (answer rounded to 1 decimal place)
  <br>oneups<Play a game of 1up, where you must pick the highest number not picked by anyone else | !oneups (bet)
- <br>playwithfire<Play a game with fire, if you win you will get 10x your bet, if you lose you get banished from chat for 2 minutes | !playwithfire (bet)
+ <br>playwithfire<Play a game with fire, if you win you will get 10x your bet, if you lose you get banished from chat for 2 minutes | !playwithfire (bet) betting is capped at 1000 Beans
  <br>events<Events that happen in chat | Commands: !Event !Drop !Prediction !Steal !Catch
  <br>event<View the current event | !event (optional:name)
  <br>startprediction<[MOD]Start a Prediction | !StartPrediction (prediction),(team 1),(team 2),(ect)
