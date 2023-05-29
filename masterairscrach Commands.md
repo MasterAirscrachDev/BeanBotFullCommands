@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 29/05/2023 8:15:15 PM)
+# masterairscrach Commands (Last Updated 29/05/2023 8:40:31 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -7,10 +7,9 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>freebeans<Get 500 Free Beans once per stream
  <br>floor<Check the floor for any {Program.config.currencies} | {Program.config.prefix}floor
  <br>editbeans<[STREAMER] Edit a users Beans | !editbeans (optional @user) (amount) | edit gold !editbeans (@user) (amount) gold
- <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip !GuessTheNum !OneUps
+ <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath
  <br>openminigames<Unlocks the minigames for 6 minutes, can be stacked | !openminigames (costs 10,000 Beans)
  <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount])
- <br>guessthenum<Guess a number between 1-5 a correct guess gives 5x bet | !guessthenum (num[1-5]) (amount)
  <br>oneups<Play a game of 1up, where you must pick the highest number not picked by anyone else | !oneups (bet)
  <br>playwithfire<Play a game with fire, if you win you will get 10x your bet, if you lose you get banished from chat for 2 minutes | !playwithfire (bet)
  <br>events<Events that happen in chat | Commands: !Event !Drop !Prediction !Steal !Catch
