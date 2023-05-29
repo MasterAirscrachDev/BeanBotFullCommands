@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 29/05/2023 5:58:07 PM)
+# xblustone Commands (Last Updated 29/05/2023 5:58:48 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -62,7 +62,7 @@ card<SIMPLE CARDS BY BLUE | 100 Balls
  <br>jumpscare<JUMPSCARE OOOO SCAWWY | 500 Balls
  <br>laugh<hahahah LOL | 200 Balls
  <br>pipe<ahhhh PIPES | 200 Balls
- <br>sandwichcost=300)<Obama sandwich - REQUESTED BY LOLANGE46 
+ <br>sandwich<Obama sandwich - REQUESTED BY LOLANGE46  | 300 Balls
  <br>sound<lists of sounds: !pipe | !rats | !wizard | !number1
  <br>terrible<Terrible | 200 Balls
  <br>ticking<Ticking | 300 Balls
