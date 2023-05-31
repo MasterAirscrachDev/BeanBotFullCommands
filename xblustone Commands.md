@@ -1,10 +1,10 @@
-# xblustone Commands (Last Updated 30/05/2023 6:38:32 PM)
+# xblustone Commands (Last Updated 31/05/2023 6:50:31 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
  <br>giveballs<Give someone Balls | !giveballs (@user) (amount)
  <br>ballboard<View The Leaderboard
- <br>freeballs<Get 200 Free Balls once per stream
+ <br>freeballs<Get 150 Free Balls once per stream
  <br>floor<!Floor has disabled by the streamer
  <br>editballs<[STREAMER] Edit a users Balls | !editballs (optional @user) (amount) | edit gold !editballs (@user) (amount) gold
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath 
@@ -26,7 +26,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Balls for 10M, 2: 2.5K Balls for 20M, 3: 5K Balls for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
- <br>drop<collect a drop of 300 balls | !drop
+ <br>drop<collect a drop of 250 balls | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
@@ -46,9 +46,17 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
 ### Custom Commands
 card<SIMPLE CARDS BY BLUE | 100 Balls
  <br>roll<SIMPLE CARDS BY BLUE | 200 Balls
- <br>altf4<[FULLY CLOSES MY GAME, COST 20,000 BALLS] | 1,500 Balls
- <br>fnaf<FNAF COMMANDS [MORE COMMING SOON]
- <br>quit<[FULLY CLOSES MY GAME, COST 20,000 BALLS] | 1,500 Balls
+ <br>cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 600 Balls
+ <br>eject<[EJECTS ME FROM THE BEAR] | 200 Balls
+ <br>espam<[SPAMS "E". COULD ALSO BE USED TO KILL ME?] | 250 Balls
+ <br>gun<[COULD BE USED TO SWAP TO MY BLASTER] | 450 Balls
+ <br>light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
+ <br>misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
+ <br>qspam<[SPAMS FREDDY CALLS, MAKES IT HARDER TO GET THE BEAR] | 200 Balls
+ <br>run<[MAKES ME RUN FORWARD] | 400 Balls
+ <br>sb<lists my FNAF: Security Breach commands
+ <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,500 Balls
+ <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
  <br>bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>hello<BB Hello :D | 150 Balls
