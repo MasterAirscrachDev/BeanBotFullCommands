@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 31/05/2023 10:07:48 PM)
+# xblustone Commands (Last Updated 1/06/2023 12:10:33 AM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -45,17 +45,11 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>cows<Nothing can save you now
 ### Custom Commands
 cards<SIMPLE CARDS BY BLUE | 100 Balls
- <br>cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 600 Balls
- <br>eject<[EJECTS ME FROM THE BEAR] | 200 Balls
- <br>espam<[SPAMS "E". COULD ALSO BE USED TO KILL ME?] | 250 Balls
- <br>gun<[COULD BE USED TO SWAP TO MY BLASTER] | 450 Balls
- <br>light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
- <br>misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
- <br>qspam<[SPAMS FREDDY CALLS, MAKES IT HARDER TO GET THE BEAR] | 200 Balls
- <br>run<[MAKES ME RUN FORWARD] | 400 Balls
- <br>sb<lists my FNAF: Security Breach commands
- <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,500 Balls
- <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
+ <br>anvil<[CAN BE USED TO DROP AN ITEM IN THE SLOT IM USING COST] | 500 Balls
+ <br>mc<lists my FNAF: Security Breach commands
+ <br>qdrop<[CAN BE USED TO DROP AN ITEM IN THE SLOT IM USING COST] | 200 Balls
+ <br>random<[SWAP TO RANDOM ITEM IN MY HOTBAR AND DROP IT] | 300 Balls
+ <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 500 Balls
  <br>bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>hello<BB Hello :D | 150 Balls
