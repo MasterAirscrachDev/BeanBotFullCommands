@@ -1,4 +1,4 @@
-# channelgoeshere Commands (Last Updated 1/06/2023 5:50:22 PM)
+# channelgoeshere Commands (Last Updated 1/06/2023 5:59:03 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/channelgoeshere%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
