@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 2/06/2023 6:12:47 PM)
+# xblustone Commands (Last Updated 2/06/2023 7:23:10 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -44,7 +44,9 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>prestige<Prestige your Balls | !prestige (costs 1,000,000,000 Balls)
  <br>cows<Nothing can save you now
 ### Custom Commands
-cards<SIMPLE CARDS BY BLUE | 100 Balls
+clock<Gets the time
+ <br>startclockmod<Sets The Clock to 12am
+ <br>cards<SIMPLE CARDS BY BLUE | 100 Balls
  <br>bombs<3 2 1 BOOM! (BOMB) | 500 Balls
  <br>emergency<Emergency SUSSY SUSSY | 100 Balls
  <br>hello<BB Hello :D | 150 Balls
