@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 2/06/2023 9:39:39 AM)
+# masterairscrach Commands (Last Updated 2/06/2023 9:55:38 AM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -30,7 +30,7 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
- <br>about bot<(Running BeanBot.exe v1.1.4) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
+ <br>about bot<(Running BeanBot.exe v1.1.5) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
  <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
  <br>about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
  <br>about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
