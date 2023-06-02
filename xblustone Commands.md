@@ -1,10 +1,10 @@
-# xblustone Commands (Last Updated 2/06/2023 4:54:27 PM)
+# xblustone Commands (Last Updated 2/06/2023 4:55:11 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
  <br>giveballs<Give someone Balls | !giveballs (@user) (amount)
  <br>ballboard<View The Leaderboard
- <br>freeballs<Get 2000 Free Balls once per stream
+ <br>freeballs<Get 1000 Free Balls once per stream
  <br>floor<!Floor has disabled by the streamer
  <br>editballs<[STREAMER] Edit a users Balls | !editballs (optional @user) (amount) | edit gold !editballs (@user) (amount) gold
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath 
