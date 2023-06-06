@@ -1,10 +1,10 @@
-# xblustone Commands (Last Updated 5/06/2023 11:46:25 PM)
+# xblustone Commands (Last Updated 6/06/2023 6:32:58 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
  <br>giveballs<Give someone Balls | !giveballs (@user) (amount)
  <br>ballboard<View The Leaderboard
- <br>freeballs<Get 100 Free Balls once per stream
+ <br>freeballs<Get 150 Free Balls once per stream
  <br>floor<!Floor has disabled by the streamer
  <br>editballs<[STREAMER] Edit a users Balls | !editballs (optional @user) (amount) | edit gold !editballs (@user) (amount) gold
  <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath 
@@ -26,7 +26,7 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Balls for 10M, 2: 2.5K Balls for 20M, 3: 5K Balls for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
- <br>drop<collect a drop of 200 balls | !drop
+ <br>drop<collect a drop of 250 balls | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
