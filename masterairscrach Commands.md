@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 6/06/2023 7:56:43 PM)
+# masterairscrach Commands (Last Updated 6/06/2023 10:53:38 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -55,7 +55,7 @@ bot<Here are the cool bot commands
  <br>trade<My Steam Trade Link
  <br>waterwolf<Waterwolf Channel Link
  <br>crouch<Cancels My Sprint | 400 Beans
- <br>eject<Ejects me from Freddy if im in him | 300 Beans
+ <br>eject<Ejects me from Freddy if im in him | 800 Beans
  <br>freddy<Summons Freddy if i can | 100 Beans
  <br>jump<Do a flip | 50 Beans
  <br>lean<Get Tilted | 500 Beans
