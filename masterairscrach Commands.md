@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 7/06/2023 11:43:14 AM)
+# masterairscrach Commands (Last Updated 7/06/2023 12:19:29 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -21,14 +21,15 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>lockprediction<[MOD]Lock the current prediction | !Lockprediction
  <br>endprediction<[MOD]Ends the current prediction | !Endprediction (winner)
  <br>vote<Vote for the prediction | !vote (teamname) (bet)
- <br>steal<Attempt to steal from another user, They will have 5 seconds to try !catch you | !steal (@target)
+ <br>steal<Attempt to steal from another user, They will have 5 seconds to try !catch you | !steal | !steal (@target)
  <br>catch<Stop another user from stealing from you
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Beans for 10M, 2: 2.5K Beans for 20M, 3: 5K Beans for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
  <br>drop<collect a drop of 100 beans | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
- <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
+ <br>clearcounter<[MOD]Removes The counter from the capture, does not reset the counter | !clearcounter
+ <br>counter<View/Change the counter for an event |[MOD] !Counter+ |[MOD] !Counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
  <br>about bot<(Running BeanBot.exe v1.1.6) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
  <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
