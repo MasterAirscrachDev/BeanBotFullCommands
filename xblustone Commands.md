@@ -1,77 +1,35 @@
-# xblustone Commands (Last Updated 8/06/2023 10:36:14 PM)
-### Base Commands
-help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
- <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
- <br>giveballs<Give someone Balls | !giveballs (@user) (amount)
- <br>ballboard<View The Leaderboard
- <br>freeballs<Get 150 Free Balls once per stream
- <br>floor<!Floor has disabled by the streamer
- <br>editballs<[STREAMER] Edit a users Balls | !editballs (optional @user) (amount) | edit gold !editballs (@user) (amount) gold
- <br>minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath 
- <br>openminigames<Unlocks the minigames for 3 minutes, can be stacked | !openminigames (costs 40,000 Balls)
- <br>coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount]) betting is capped at 1000 Balls
- <br>quickmath<Answer a math question in a timelimit, your are awarded based on the complexity | !quickmath | !answer (answer rounded to 1 decimal place)
- <br>answer<Answer a math question in a timelimit, your are awarded based on the complexity | !quickmath | !answer (answer rounded to 1 decimal place)
- <br>oneups<Play a game of 1up, where you must pick the highest number not picked by anyone else | !oneups (bet)
- <br>playwithfire<Play a game with fire, if you win you will get 10x your bet, if you lose you get banished from chat for 2 minutes | !playwithfire (bet) betting is capped at 1000 Balls
- <br>events<Events that happen in chat | Commands: !Event !Drop !Prediction !Steal !Catch
- <br>event<View the current event | !event (optional:name)
- <br>startprediction<[MOD]Start a Prediction | !StartPrediction (prediction),(team 1),(team 2),(ect)
- <br>prediction<View the current prediction
- <br>lockprediction<[MOD]Lock the current prediction | !Lockprediction
- <br>endprediction<[MOD]Ends the current prediction | !Endprediction (winner)
- <br>vote<Vote for the prediction | !vote (teamname) (bet)
- <br>steal<Attempt to steal from another user, They will have 5 seconds to try !catch you | !steal | !steal (@target)
- <br>catch<Stop another user from stealing from you
- <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Balls for 10M, 2: 2.5K Balls for 20M, 3: 5K Balls for 30M and notification on break
- <br>padlock<view your padlock, use !buypadlock to buy one
- <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
- <br>drop<collect a drop of 250 balls | !drop
- <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
- <br>clearcounter<[MOD]Removes The counter from the capture, does not reset the counter | !clearcounter
- <br>counter<View/Change the counter for an event |[MOD] !Counter+ |[MOD] !Counter- | Counter
- <br>about<Get some info | !help about bot !help about creator !help about inspiration
- <br>about bot<(Running BeanBot.exe v1.1.6) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
- <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
- <br>about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
- <br>about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
- <br>tts<Get Text To Speech | !tts (text) (costs 100 Balls)
- <br>stopsound<[MOD] Stops the tts and any other sounds the bot is playing | !stopsound or !ss
- <br>listvoices<[STREAMER] Get a list of all the voices you can use for tts in console
- <br>allcommands<[STREAMER] Get a list of all the commands in console
- <br>openconfig<[STREAMER] Opens the config folder for the bot
- <br>goldenBall<activates the power of a golden Ball
- <br>reload<[MOD] Reloads the config file and all custom commands | !reload
- <br>prestige<Prestige your Balls | !prestige (costs 1,000,000,000 Balls)
- <br>cows<Nothing can save you now
-### Custom Commands
+# xblustone Commands (Last Updated 9/06/2023 12:52:26 AM)
+Get Text To Speech | !tts (text) (costs 100 Balls) <br>
+!Floor Is Disabled <br>
+!Openminigames costs 40000 Balls and lasts 3 minutes <br>
+### Custom Commands <br>
+```js
 clock<Gets the time
- <br>startclockmod<Sets The Clock to 12am
- <br>cards<SIMPLE CARDS BY BLUE | 100 Balls
- <br>backwards<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,700 Balls
- <br>cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 600 Balls
- <br>eject<[EJECTS ME] | 1,500 Balls
- <br>gun<[COULD BE USED TO SWAP TO MY BLASTER] | 450 Balls
- <br>lean<[COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
- <br>light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
- <br>misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
- <br>random<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
- <br>run<[MAKES ME RUN FORWARD] | 400 Balls
- <br>sb<lists my FNAF: Security Breach commands
- <br>spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
- <br>stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
- <br>walk<[MAKES ME WALK FORWARD] | 300 Balls
- <br>bombs<3 2 1 BOOM! (BOMB) | 500 Balls
- <br>emergency<Emergency SUSSY SUSSY | 100 Balls
- <br>hello<BB Hello :D | 150 Balls
- <br>honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
- <br>jumpscare<JUMPSCARE OOOO SCAWWY | 500 Balls
- <br>laugh<hahahah LOL | 200 Balls
- <br>pipe<ahhhh PIPES | 200 Balls
- <br>sandwich<Obama sandwich - REQUESTED BY LOLANGE46  | 300 Balls
- <br>sound<lists of sounds: !pipe | !rats | !wizard | !number1
- <br>terrible<Terrible | 200 Balls
- <br>ticking<Ticking | 300 Balls
- <br>welldone<welldone | 400 Balls
- <br>wizard<wizard | 100 Balls
- <br>
+startclockmod<Sets The Clock to 12am
+cards<SIMPLE CARDS BY BLUE | 100 Balls
+backwards<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,700 Balls
+cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 600 Balls
+eject<[EJECTS ME] | 1,500 Balls
+gun<[COULD BE USED TO SWAP TO MY BLASTER] | 450 Balls
+lean<[COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
+light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
+misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
+random<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+run<[MAKES ME RUN FORWARD] | 400 Balls
+sb<lists my FNAF: Security Breach commands
+spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
+stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
+walk<[MAKES ME WALK FORWARD] | 300 Balls
+bombs<3 2 1 BOOM! (BOMB) | 500 Balls
+emergency<Emergency SUSSY SUSSY | 100 Balls
+hello<BB Hello :D | 150 Balls
+honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
+jumpscare<JUMPSCARE OOOO SCAWWY | 500 Balls
+laugh<hahahah LOL | 200 Balls
+pipe<ahhhh PIPES | 200 Balls
+sandwich<Obama sandwich - REQUESTED BY LOLANGE46  | 300 Balls
+sound<lists of sounds: !pipe | !rats | !wizard | !number1
+terrible<Terrible | 200 Balls
+ticking<Ticking | 300 Balls
+welldone<welldone | 400 Balls
+wizard<wizard | 100 Balls
