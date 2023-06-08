@@ -1,3 +1,4 @@
+```js
 <The Help Command | Catagories: {INSERT CURRENCIES}, Minigames, Events, About, TTS <br>
 
 {INSERT CURRENCY}<You Gain 1-3 {INSERT CURRENCIES} Every Minute Your Active in Chat | Commands: <PREFIX>{INSERT CURRENCIES}  <PREFIX>Give{INSERT CURRENCIES}, <PREFIX>{INSERT CURRENCY}Board, <PREFIX>Free{INSERT CURRENCIES}, <PREFIX>Floor, <PREFIX>Steal <br>
@@ -10,7 +11,7 @@ prestige<Prestige your {INSERT CURRENCIES} | <PREFIX>prestige (costs 1,000,000,0
 floor<Collect {INSERT CURRENCIES} if enabled by Streamer <br>
 
 minigames<Minigames to play in chat | Commands: <PREFIX>OpenMinigames <PREFIX>Coinflip  <PREFIX>OneUps <PREFIX>Quickmath <br>
-openminigames<Unlocks the minigames for {Program.config.minigamesDuration} minutes, can be stacked | <PREFIX>openminigames (costs {CHECK STREAMER CONFIG} {INSERT CURRENCIES}) <br>
+openminigames<Unlocks the minigames for {CHECK STREAMER CONFIG} minutes, can be stacked | <PREFIX>openminigames (costs {CHECK STREAMER CONFIG} {INSERT CURRENCIES}) <br>
 coinflip<Flip a coin, if you bet you will get double your bet on correct guess | <PREFIX>coinflip (optional:[heads/tails] [amount]) betting is capped at 1000 {INSERT CURRENCIES} <br>
 quickmath<Answer a math question in a timelimit, your are awarded based on the complexity | <PREFIX>quickmath | <PREFIX>answer (answer rounded to 1 decimal place) <br>
 answer<Answer a math question in a timelimit, your are awarded based on the complexity | <PREFIX>quickmath | <PREFIX>answer (answer rounded to 1 decimal place) <br>
