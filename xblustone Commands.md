@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 8/06/2023 6:18:17 PM)
+# xblustone Commands (Last Updated 8/06/2023 6:18:33 PM)
 ### Base Commands
 help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/xblustone%20Commands.md
  <br>balls<You Gain 1-3 Balls Every Minute Your Active in Chat | Commands: !Balls !GiveBalls, !BallBoard, !FreeBalls, !Floor, !Steal
@@ -21,17 +21,16 @@ help<The Help Command | Catagories: Balls, Minigames, Events, About, TTS. or get
  <br>lockprediction<[MOD]Lock the current prediction | !Lockprediction
  <br>endprediction<[MOD]Ends the current prediction | !Endprediction (winner)
  <br>vote<Vote for the prediction | !vote (teamname) (bet)
- <br>steal<Attempt to steal from another user, They will have 5 seconds to try !catch you | !steal | !steal (@target)
+ <br>steal<Attempt to steal from another user, They will have 5 seconds to try !catch you | !steal (@target)
  <br>catch<Stop another user from stealing from you
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Balls for 10M, 2: 2.5K Balls for 20M, 3: 5K Balls for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
  <br>drop<collect a drop of 250 balls | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
- <br>clearcounter<[MOD]Removes The counter from the capture, does not reset the counter | !clearcounter
- <br>counter<View/Change the counter for an event |[MOD] !Counter+ |[MOD] !Counter- | Counter
+ <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
- <br>about bot<(Running BeanBot.exe v1.1.6) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
+ <br>about bot<(Running BeanBot.exe v1.1.5) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
  <br>about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
  <br>about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
  <br>about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
