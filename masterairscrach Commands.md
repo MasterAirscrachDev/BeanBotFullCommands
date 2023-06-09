@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 9/06/2023 10:17:36 PM)
+# masterairscrach Commands (Last Updated 9/06/2023 10:51:50 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -30,7 +30,7 @@ death<YOu Died | 30 Beans
 emergency<Call an emergency meeting | 25 Beans
 jumpscare<Plays The Jumpscare Sound | 1,000 Beans
 laugh<Lol Moment | 100 Beans
-pipe<CRASH | 25 Beans
+pipe<CRASH | 100 Beans
 scout<Plays A Random Scout Voiceline | 50 Beans
 sounds<Here are the sound effects
 supershit<How'd you fuck that one up that badly | 25 Beans
