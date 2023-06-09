@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 9/06/2023 1:45:55 PM)
+# xblustone Commands (Last Updated 9/06/2023 1:46:36 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
