@@ -1,10 +1,11 @@
-# masterairscrach Commands (Last Updated 9/06/2023 1:28:27 PM)
+# masterairscrach Commands (Last Updated 9/06/2023 1:37:02 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
 ### Custom Commands <br>
 ```js
 bot<Here are the cool bot commands
+cards<SIMPLE CARDS BY BLUE
 cat<I have to wear cat ears for 10 minutes (stackable) | 5,000 Beans
 penis<say penis | 1,000,000 Beans
 whiteboard<Request me to draw somthing on the whitboard (must obey Twitch TOS) | 5,000 Beans
