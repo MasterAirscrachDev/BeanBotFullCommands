@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 9/06/2023 2:02:33 PM)
+# xblustone Commands (Last Updated 9/06/2023 2:05:59 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -13,6 +13,7 @@ gun<[COULD BE USED TO SWAP TO MY BLASTER]
 jump<[MAKES ME WALK FORWARD]]
 lean<[COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT]
 light<[COULD BE USED TO SWAP TO MY FLASH LIGHT]
+q<[PRESS "Q"]
 run<[MAKES ME RUN FORWARD]
 sb<lists my FNAF: Security Breach commands
 walk<[MAKES ME WALK FORWARD]
