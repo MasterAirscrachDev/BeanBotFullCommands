@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 9/06/2023 2:25:49 PM)
+# xblustone Commands (Last Updated 9/06/2023 2:48:48 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -9,8 +9,9 @@ startclockmod<Sets The Clock to 12am
 cards<SIMPLE CARDS BY BLUE | 100 Balls
 back<[MAKES ME WALK FORWARD]
 cam<[[COULD BE USED TO SWAP TO MY FAZ CAM]
-e<[PRESS "E"]
+e<[HOLDS "E"]
 gun<[COULD BE USED TO SWAP TO MY BLASTER]
+holde<[PRESS "E"]
 jump<[MAKES ME WALK FORWARD]]
 left<[COULD BE USED TO MOVE ME TO THE RIGHT]
 light<[COULD BE USED TO SWAP TO MY FLASH LIGHT]
