@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 9/06/2023 1:30:07 PM)
+# xblustone Commands (Last Updated 9/06/2023 1:35:14 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -6,22 +6,11 @@ Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 ```js
 clock<Gets the time
 startclockmod<Sets The Clock to 12am
+cards<SIMPLE CARDS BY BLUE | 100 Balls
+walk<[MAKES ME WALK FORWARD]
 egg<[FIND 1-5 EGGS ON THE FLOOR - NOT A GOOD WAY TO EARN BALLS] | 5 Balls
-backwards<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,700 Balls
-cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 100 Balls
-eject<[EJECTS ME] | 1,500 Balls
-gun<[COULD BE USED TO SWAP TO MY BLASTER] | 100 Balls
-lean<[COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
-light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
-misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
-random<[RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-run<[MAKES ME RUN FORWARD] | 400 Balls
-sb<lists my FNAF: Security Breach commands
-spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
-stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
-walk<[MAKES ME WALK FORWARD] | 250 Balls
 ambience<FNAF 2 Ambience | 150 Balls
-bombs<3 2 1 BOOM! (BOMB) | 500 Balls
+bombs<3 2 1 BOOM! (BOMB) | 400 Balls
 emergency<Emergency SUSSY SUSSY | 100 Balls
 hello<BB Hello :D | 150 Balls
 honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
