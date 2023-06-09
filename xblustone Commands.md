@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 9/06/2023 1:18:41 PM)
+# xblustone Commands (Last Updated 9/06/2023 1:27:03 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -21,6 +21,7 @@ sb<lists my FNAF: Security Breach commands
 spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
 stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
 walk<[MAKES ME WALK FORWARD] | 250 Balls
+ambience<FNAF 2 Ambience | 150 Balls
 bombs<3 2 1 BOOM! (BOMB) | 500 Balls
 emergency<Emergency SUSSY SUSSY | 100 Balls
 hello<BB Hello :D | 150 Balls
