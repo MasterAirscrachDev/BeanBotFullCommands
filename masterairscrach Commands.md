@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 12/06/2023 8:29:06 PM)
+# masterairscrach Commands (Last Updated 12/06/2023 8:56:26 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -19,7 +19,6 @@ crouch<Cancels My Sprint | 400 Beans
 eject<Ejects me from Freddy if im in him | 800 Beans
 freddy<Summons Freddy if i can | 100 Beans
 jump<Do a flip | 50 Beans
-lean<Get Tilted | 500 Beans
 maze<Mazercize Code
 sb<lists my FNAF: Security Breach commands
 bingchilling<BING CHILLING | 250 Beans
