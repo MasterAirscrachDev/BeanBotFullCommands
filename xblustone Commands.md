@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 13/06/2023 7:08:43 PM)
+# xblustone Commands (Last Updated 13/06/2023 7:09:29 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -6,8 +6,8 @@ Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 ```js
 clock<Gets the time
 startclockmod<Sets The Clock to 12am
+cards<SIMPLE CARDS BY BLUE | 100 Balls
 egg<[FIND 1-5 EGGS ON THE FLOOR - NOT A GOOD WAY TO EARN BALLS] | 3 Balls
-golf<SIMPLE MINI GOLF GAME BY BLUESTONE | 100 Balls
 backwards<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,700 Balls
 cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 100 Balls
 eject<[EJECTS ME] | 1,500 Balls
