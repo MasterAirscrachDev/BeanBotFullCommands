@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 13/06/2023 9:03:33 PM)
+# xblustone Commands (Last Updated 13/06/2023 9:35:17 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -14,7 +14,7 @@ eject<[EJECTS ME] | 1,500 Balls
 gun<[COULD BE USED TO SWAP TO MY BLASTER] | 100 Balls
 lean<[COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
 light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
-misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,000 Balls
+misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,500 Balls
 random<[RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 run<[MAKES ME RUN FORWARD] | 400 Balls
 sb<lists my FNAF: Security Breach commands
