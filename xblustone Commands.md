@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 13/06/2023 6:56:15 PM)
+# xblustone Commands (Last Updated 13/06/2023 6:58:30 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -6,7 +6,6 @@ Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 ```js
 clock<Gets the time
 startclockmod<Sets The Clock to 12am
-cards<SIMPLE CARDS BY BLUE | 100 Balls
 back<[MAKES ME WALK FORWARD]
 cam<[[COULD BE USED TO SWAP TO MY FAZ CAM]
 close<[PRESS "ESC KEY" TO CLOSE FAZWATCH]
@@ -26,6 +25,7 @@ stop<[CAN BE USED TO STOP ME FROM MOVING]
 walk<[MAKES ME WALK FORWARD]
 watch<[PRESS "TAB" TO OPEN FAZWATCH]
 egg<[FIND 1-5 EGGS ON THE FLOOR - NOT A GOOD WAY TO EARN BALLS] | 3 Balls
+golf<SIMPLE MINI GOLF GAME BY BLUESTONE | 100 Balls
 ambience<FNAF 2 Ambience | 150 Balls
 bombs<3 2 1 BOOM! (BOMB) | 400 Balls
 emergency<Emergency SUSSY SUSSY | 100 Balls
