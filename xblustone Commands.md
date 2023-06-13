@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 13/06/2023 6:23:08 PM)
+# xblustone Commands (Last Updated 13/06/2023 6:26:50 PM)
 Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -7,6 +7,24 @@ Get Text To Speech | !tts (text) (costs 100 Balls) <br>
 clock<Gets the time
 startclockmod<Sets The Clock to 12am
 cards<SIMPLE CARDS BY BLUE | 100 Balls
+back<[MAKES ME WALK FORWARD]
+cam<[[COULD BE USED TO SWAP TO MY FAZ CAM]
+close<[PRESS "ESC KEY" TO CLOSE FAZWATCH]
+ctrl<[PRESS "CTRL"]
+e<[PRESS "E"]
+ehold<[HOLDS "E"]
+gun<[COULD BE USED TO SWAP TO MY BLASTER]
+holde<[HOLDS "E"]
+jump<[MAKES ME WALK FORWARD]]
+left<[COULD BE USED TO MOVE ME TO THE RIGHT]
+light<[COULD BE USED TO SWAP TO MY FLASH LIGHT]
+q<[PRESS "Q"]
+right<[COULD BE USED TO MOVE ME TO THE RIGHT]
+run<[MAKES ME RUN FORWARD]
+sb<lists my FNAF: Security Breach commands
+stop<[CAN BE USED TO STOP ME FROM MOVING]
+walk<[MAKES ME WALK FORWARD]
+watch<[PRESS "TAB" TO OPEN FAZWATCH]
 egg<[FIND 1-5 EGGS ON THE FLOOR - NOT A GOOD WAY TO EARN BALLS] | 3 Balls
 ambience<FNAF 2 Ambience | 150 Balls
 bombs<3 2 1 BOOM! (BOMB) | 400 Balls
