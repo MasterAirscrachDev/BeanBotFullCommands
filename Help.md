@@ -32,25 +32,26 @@ catch<Stop another user from stealing from you <br>
 buypadlock<buy a padlock to stop people stealing from you | <PREFIX>buypadlock (optional:tier[1-3]) 1: 1K {INSERT CURRENCIES} for 10M, 2: 2.5K {INSERT CURRENCIES} for 20M, 3: 5K {INSERT CURRENCIES} for 30M and notification on break <br>
 padlock<view your padlock, use <PREFIX>buypadlock to buy one <br>
 
-join<Join an event you were invited to | <PREFIX>join (optional:eventname) (optional:info) <br>
-
 counter<View/Change the counter for an event |[MOD] <PREFIX>Counter+ |[MOD] <PREFIX>Counter- | Counter <br>
 about<Get some info | <PREFIX>help about bot <PREFIX>help about creator <PREFIX>help about inspiration <br>
 about bot<(Running BeanBot.exe) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions <br>
 about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot) <br>
 about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs <br>
 about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW <br>
+
 tts<Get TTS, {CHECK STREAMER CONFIG} <br>
+buyTTS<buy TTS Tokens to use for TTS, 5% discount per token | <PREFIX>buyTTS (amount)
 
+setCounter<[MOD]Set the name of the counter and reset it to 0 | <PREFIX>setcounter (name) <br>
+clearCounter<[MOD]Removes The counter from the capture, does not reset the counter | <PREFIX>clearcounter <br>
 
-setcounter<[MOD]Set the name of the counter and reset it to 0 | <PREFIX>setcounter (name) <br>
-clearcounter<[MOD]Removes The counter from the capture, does not reset the counter | <PREFIX>clearcounter <br>
+Reload<[MOD] Reloads the config file and all custom commands | <PREFIX>reload <br>
+stopSound<[MOD] Stops the tts and any other sounds the bot is playing | <PREFIX>stopsound or <PREFIX>ss <br>
 
-reload<[MOD] Reloads the config file and all custom commands | <PREFIX>reload <br>
-stopsound<[MOD] Stops the tts and any other sounds the bot is playing | <PREFIX>stopsound or <PREFIX>ss <br>
-
-edit{INSERT CURRENCIES}<[STREAMER] Edit a users {INSERT CURRENCIES} | <PREFIX>edit{INSERT CURRENCY} (optional @user) (amount) | edit gold <PREFIX>edit{INSERT CURRENCY} (@user) (amount) gold <br>
+Edit{INSERT CURRENCIES}<[STREAMER] Edit a users {INSERT CURRENCIES} | <PREFIX>edit{INSERT CURRENCY} (optional @user) (amount) | edit gold <PREFIX>edit{INSERT CURRENCY} (@user) (amount) gold <br>
+EditTTS<[MOD] Edit a users TTS Tokens | <PREFIX>edittts (@user) (amount)
 bot.voices<[STREAMER] Get a list of all the voices you can use for tts in console <br>
 bot.commands<[STREAMER] Get a list of all the commands in console <br>
 bot.config<[STREAMER] Opens the config folder for the bot <br>
 bot.processes<[STREAMER] Get a list of all the processes the bot can detect <br>
+bot.lock<[MOD] toggles the use of custom commands <br>
