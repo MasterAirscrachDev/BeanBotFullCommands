@@ -1,4 +1,4 @@
-# shadowfabric Commands (Last Updated 25/05/2023 5:00:59 PM)
+# shadowfabric Commands (Last Updated 19/06/2023 12:58:06 PM)
 ### Base Commands
 help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/shadowfabric%20Commands.md
  <br>beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal
@@ -25,7 +25,7 @@ help<The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get
  <br>buypadlock<buy a padlock to stop people stealing from you | !buypadlock (optional:tier[1-3]) 1: 1K Beans for 10M, 2: 2.5K Beans for 20M, 3: 5K Beans for 30M and notification on break
  <br>padlock<view your padlock, use !buypadlock to buy one
  <br>join<Join an event you were invited to | !join (optional:eventname) (optional:info)
- <br>drop<collect a drop of 100 beans | !drop
+ <br>drop<collect a drop of 50 beans | !drop
  <br>setcounter<[MOD]Set the name of the counter and reset it to 0 | !setcounter (name)
  <br>counter<View/Change the counter for an event |[MOD] !counter+ |[MOD] !counter- | Counter
  <br>about<Get some info | !help about bot !help about creator !help about inspiration
