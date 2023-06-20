@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 20/06/2023 8:43:02 PM)
+# masterairscrach Commands (Last Updated 20/06/2023 10:03:51 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -12,6 +12,7 @@ startclock<Sets The Clock to 12am
 whiteboard<Request me to draw somthing on the whitboard (must obey Twitch TOS) | 500 Beans
 bluestone<xBluestone Channel Link
 discord<Link The Discord
+dorp<dorp
 fishtank<Get The Fishtank Link
 hot<Come on, you know who it is
 multi<The Multistream link
