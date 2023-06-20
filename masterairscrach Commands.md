@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 19/06/2023 9:19:31 PM)
+# masterairscrach Commands (Last Updated 20/06/2023 11:18:32 AM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
