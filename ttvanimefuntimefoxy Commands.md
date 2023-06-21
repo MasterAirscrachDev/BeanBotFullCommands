@@ -1,6 +1,6 @@
-# ttvanimefuntimefoxy Commands (Last Updated 6/21/2023 1:19:34 PM)
-Get Text To Speech | !tts (text) (costs 100 VixenBagsOfCash) <br>
+# ttvanimefuntimefoxy Commands (Last Updated 6/21/2023 1:21:48 PM)
+Get Text To Speech | !tts (text) (costs 100 VixenPaws) <br>
 !Floor is enabled <br>
-!Openminigames costs 10000 VixenBagsOfCash and lasts 6 minutes <br>
+!Openminigames costs 10000 VixenPaws and lasts 6 minutes <br>
 ### Custom Commands <br>
 ```js
