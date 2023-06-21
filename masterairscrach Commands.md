@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 21/06/2023 10:12:40 PM)
+# masterairscrach Commands (Last Updated 21/06/2023 10:31:14 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -19,6 +19,7 @@ multi<The Multistream link
 server<Info About our minecraft servers
 trade<My Steam Trade Link
 waterwolf<Waterwolf Channel Link
+autogiga<Spawns Monty
 crouch<Cancels My Sprint | 400 Beans
 eject<Ejects me from Freddy if im in him | 800 Beans
 freddy<Summons Freddy if i can | 100 Beans
