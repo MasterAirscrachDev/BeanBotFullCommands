@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 21/06/2023 8:28:43 PM)
+# masterairscrach Commands (Last Updated 21/06/2023 8:29:05 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -8,7 +8,7 @@ bot<Here are the cool bot commands
 cat<I have to wear cat ears for 10 minutes (stackable) | 5,000 Beans
 penis<say penis | 1,000,000 Beans
 whiteboard<Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
-clock<Gets the time
+clock<Gets the time (thanks blanana)
 startclock<Sets The Clock to 12am
 bluestone<xBluestone Channel Link
 discord<Link The Discord
