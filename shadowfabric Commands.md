@@ -1,4 +1,4 @@
-# shadowfabric Commands (Last Updated 22/06/2023 9:41:19 PM)
+# shadowfabric Commands (Last Updated 22/06/2023 9:42:03 PM)
 Get Text To Speech | !tts (text) (costs 150 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 10000 Beans and lasts 6 minutes <br>
@@ -10,6 +10,7 @@ creeper<Plays the sound of a creeper | 50 Beans
 dancing<Plays Dancing, Walking Rearaging furniture | 100 Beans
 donate<Mone
 pipe<metal pipe falling | 25 Beans
+sandwich<obama sandwich | 100 Beans
 sounds<Lists all the current sounds that are active
 stab<Breaks my ears, but also your ears | 100 Beans
 throw<Makes me drop whatever i am holding | 100 Beans
