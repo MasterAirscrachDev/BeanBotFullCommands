@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 29/06/2023 2:49:03 PM)
+# xblustone Commands (Last Updated 29/06/2023 2:51:54 PM)
 Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -21,21 +21,22 @@ spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME I
 stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
 tab<[OPENS THE FAZWATCH] | 1,500 Balls
 walk<[MAKES ME WALK FORWARD] | 250 Balls
-ambience<FNAF 2 Ambience | 100 Balls
-bombs<3 2 1 BOOM! (BOMB) | 100 Balls
-emergency<Emergency SUSSY SUSSY | 100 Balls
-hello<BB Hello :D | 100 Balls
-honk<BOOPS FREDDY NOSE :3 TEHE | 100 Balls
-jumpscare<JUMPSCARE OOOO SCAWWY | 100 Balls
-laugh<hahahah LOL | 100 Balls
-obi<OBI WAN | 100 Balls
-pipe<ahhhh PIPES | 100 Balls
-rum<RUM | 100 Balls
-sandwich<Obama sandwich - REQUESTED BY LOLANGE46  | 100 Balls
+alert<RUM | 200 Balls
+ambience<FNAF 2 Ambience | 200 Balls
+bombs<3 2 1 BOOM! (BOMB) | 200 Balls
+emergency<Emergency SUSSY SUSSY | 200 Balls
+hello<BB Hello :D | 200 Balls
+honk<BOOPS FREDDY NOSE :3 TEHE | 200 Balls
+jumpscare<JUMPSCARE OOOO SCAWWY | 200 Balls
+laugh<hahahah LOL | 200 Balls
+obi<OBI WAN | 200 Balls
+pipe<ahhhh PIPES | 200 Balls
+rum<RUM | 200 Balls
+sandwich<Obama sandwich - REQUESTED BY LOLANGE46  | 200 Balls
 sound<lists of sounds:
 sounds<lists of sounds:
-terrible<Terrible | 100 Balls
-ticking<Ticking | 100 Balls
-topgun<TOP GUN SOUND COOL | 100 Balls
-welldone<welldone | 100 Balls
-wizard<wizard | 100 Balls
+terrible<Terrible | 200 Balls
+ticking<Ticking | 200 Balls
+topgun<TOP GUN SOUND COOL | 200 Balls
+welldone<welldone | 200 Balls
+wizard<wizard | 200 Balls
