@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 2/07/2023 9:04:53 PM)
+# masterairscrach Commands (Last Updated 2/07/2023 9:18:01 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -9,7 +9,7 @@ cat<I have to wear cat ears for 10 minutes (stackable) | 3,000 Beans
 penis<say penis | 1,000,000 Beans
 whiteboard<Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
 drg<ROCK AND STONE
-explosives<Throws Explosives if i have them (Driller Only) | 1,000 Beans
+explosive<Throws Explosives if i have them (Driller Only) | 1,000 Beans
 rockandstone<ROCK AND STONE | 1,000 Beans
 bluestone<xBluestone Channel Link
 discord<Link The Discord
