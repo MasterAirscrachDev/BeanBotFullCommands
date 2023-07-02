@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 2/07/2023 1:44:44 PM)
+# masterairscrach Commands (Last Updated 2/07/2023 8:05:20 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -33,12 +33,3 @@ supershit<How'd you fuck that one up that badly | 25 Beans
 ticking<TickTickTickTickTickTickTickTickTick | 1,000 Beans
 vent<Have you heard of among us | 1,000 Beans
 welldone<Well Done Gregory | 25 Beans
-invertcontrols<inverts my controls for 60 seconds | 2,000 Beans
-killbind<Kills me if i'm alive | 10,000 Beans
-pickmyweapon<Pick a weapon for me to play for a match (If I Have It, ask to see all my weapons) | 100 Beans
-plusforward<forces me to walk forward for 30 seconds | 400 Beans
-shoot<Fires My Weapon, | Costs 5 beans | 50 Beans
-tf2<lists my tf2 commands
-usemelee<pulls out my melee weapon | 50 Beans
-useprimary<pulls out my primaray weapon | 40 Beans
-usesecondary<pulls out my secondary | 50 Beans
