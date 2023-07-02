@@ -1,4 +1,4 @@
-# shadowfabric Commands (Last Updated 3/07/2023 12:28:51 AM)
+# shadowfabric Commands (Last Updated 3/07/2023 12:29:03 AM)
 Get Text To Speech | !tts (text) (costs 150 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 10000 Beans and lasts 6 minutes <br>
