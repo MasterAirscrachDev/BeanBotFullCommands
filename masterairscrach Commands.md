@@ -1,16 +1,19 @@
-# masterairscrach Commands (Last Updated 2/07/2023 9:18:01 PM)
+# masterairscrach Commands (Last Updated 3/07/2023 7:04:04 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
 ### Custom Commands <br>
 ```js
 bot<Here are the cool bot commands
-cat<I have to wear cat ears for 10 minutes (stackable) | 3,000 Beans
 penis<say penis | 1,000,000 Beans
 whiteboard<Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
-drg<ROCK AND STONE
-explosive<Throws Explosives if i have them (Driller Only) | 1,000 Beans
-rockandstone<ROCK AND STONE | 1,000 Beans
+bow<Pulls Out My bow | 250 Beans
+cd<Clone Drone Commands
+dash<Makes me dash | 200 Beans
+freecoins<Give a user coins
+hammer<Pulls Out My Hammer | 250 Beans
+pick<Pick My Next Upgrade | 800 Beans
+sword<Pulls Out My Sword | 250 Beans
 bluestone<xBluestone Channel Link
 discord<Link The Discord
 dorp<dorp
@@ -26,6 +29,7 @@ boom<Vineboom | 5 Beans
 chungus<BIG CHUNGUS | 1,000 Beans
 death<YOu Died | 30 Beans
 emergency<Call an emergency meeting | 25 Beans
+jim<This is a button that says the players name | 25 Beans
 jumpscare<Plays The Jumpscare Sound | 1,000 Beans
 laugh<Lol Moment | 100 Beans
 lego<lego noise | 50 Beans
