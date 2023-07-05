@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 5/07/2023 11:34:50 PM)
+# xblustone Commands (Last Updated 6/07/2023 12:40:32 AM)
 Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -13,9 +13,11 @@ daycare<[MAKES ME STOP, AND PLAYS THE WEE WOO WEE WOO ALERT SOUND] | 250 Balls
 eject<[EJECTS ME] | 1,500 Balls
 gun<[COULD BE USED TO SWAP TO MY BLASTER] | 100 Balls
 lean<[COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
+left<[MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 500 Balls
 misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,500 Balls
 random<[RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+right<[MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 run<[MAKES ME RUN FORWARD] | 400 Balls
 sb<lists my FNAF: Security Breach commands
 spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
@@ -30,6 +32,7 @@ hello<BB Hello :D | 200 Balls
 honk<BOOPS FREDDY NOSE :3 TEHE | 200 Balls
 jumpscare<JUMPSCARE OOOO SCAWWY | 200 Balls
 laugh<hahahah LOL | 200 Balls
+ltopgun<TOP GUN SOUND COOL LONG VERSION 21 SECONDS | 500 Balls
 obi<OBI WAN | 200 Balls
 pipe<ahhhh PIPES | 200 Balls
 rum<RUM | 200 Balls
