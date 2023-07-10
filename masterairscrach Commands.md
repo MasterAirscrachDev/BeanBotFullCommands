@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 10/07/2023 5:13:22 PM)
+# masterairscrach Commands (Last Updated 10/07/2023 5:14:26 PM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -14,6 +14,9 @@ dorp<dorp
 fishtank<Get The Fishtank Link
 hot<Come on, you know who it is
 multi<The Multistream link
+server<Info About our minecraft servers
+trade<My Steam Trade Link
+waterwolf<Waterwolf Channel Link
 bingchilling<BING CHILLING | 250 Beans
 bombs<Lamp Oil, Rope, BOMBS | 25 Beans
 boom<Vineboom | 5 Beans
