@@ -1,12 +1,9 @@
-# xblustone Commands (Last Updated 10/07/2023 6:26:03 PM)
+# xblustone Commands (Last Updated 10/07/2023 6:37:53 PM)
 Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
 ### Custom Commands <br>
 ```js
-cards<SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER] | 100 Balls
-cows<[COWS? - NOT A GOOD WAY TO EARN BALLS - COST 100 BALLS BUT VERY FUN] | 100 Balls
-egg<[FIND 1-5 EGGS ON THE FLOOR - NOT A GOOD WAY TO EARN BALLS] | 3 Balls
 backwards<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,700 Balls
 cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 100 Balls
 daycare<[MAKES ME STOP, AND PLAYS THE WEE WOO WEE WOO ALERT SOUND] | 1,000 Balls
@@ -19,7 +16,6 @@ misclick<[COULD BE USED TO KILL ME DURING AN UPGRADE] | 1,500 Balls
 random<[RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 right<[MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 run<[MAKES ME RUN FORWARD] | 400 Balls
-sb<lists my FNAF: Security Breach commands
 spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
 stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
 tab<[OPENS THE FAZWATCH] | 1,500 Balls
