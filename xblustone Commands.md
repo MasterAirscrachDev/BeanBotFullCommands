@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 10/07/2023 3:32:56 PM)
+# xblustone Commands (Last Updated 10/07/2023 3:36:01 PM)
 Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -21,16 +21,17 @@ right<[MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT
 run<[MAKES ME RUN FORWARD] | 400 Balls
 sb<lists my FNAF: Security Breach commands
 spam<[SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
-spawns<lists my FNAF: Security Breach commands
+spawns<LIST OF SPAWNS, A VIEWER CAN SPAWN (COST %Chica.displaycost% BALLS)
 stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,700 Balls
 tab<[OPENS THE FAZWATCH] | 1,500 Balls
 walk<[MAKES ME WALK FORWARD] | 250 Balls
-babymonty<Summons BABYMONTY | 100 Balls
-chica<Summons Chica | 1,000 Balls
-endo<Summons ENDO | 1,000 Balls
-giga<Summons GIGAMONTY | 1,000 Balls
-monty<Summons MONTY | 1,500 Balls
-roxy<Summons Roxy | 1,000 Balls
+babymonty<Summons BABYMONTY | 500 Balls
+bchica<Summons Chica | 500 Balls
+chica<Summons Chica | 500 Balls
+endo<Summons ENDO | 500 Balls
+giga<Summons GIGAMONTY | 500 Balls
+monty<Summons MONTY | 500 Balls
+roxy<Summons Roxy | 500 Balls
 alert<RUM | 200 Balls
 ambience<FNAF 2 Ambience | 200 Balls
 bombs<3 2 1 BOOM! (BOMB) | 200 Balls
