@@ -1,4 +1,4 @@
-# xblustone Commands (Last Updated 10/07/2023 3:36:39 PM)
+# xblustone Commands (Last Updated 10/07/2023 3:46:06 PM)
 Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
@@ -31,7 +31,6 @@ endo<Summons ENDO | 500 Balls
 giga<Summons GIGAMONTY | 500 Balls
 monty<Summons MONTY | 500 Balls
 roxy<Summons Roxy | 500 Balls
-spawns<LIST OF SPAWNS, A VIEWER CAN SPAWN (COST %chica.displaycost% BALLS)
 alert<RUM | 200 Balls
 ambience<FNAF 2 Ambience | 200 Balls
 bombs<3 2 1 BOOM! (BOMB) | 200 Balls
