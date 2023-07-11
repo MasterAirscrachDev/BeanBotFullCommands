@@ -1,4 +1,4 @@
-# masterairscrach Commands (Last Updated 11/07/2023 11:29:12 AM)
+# masterairscrach Commands (Last Updated 11/07/2023 11:32:03 AM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
@@ -25,7 +25,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 ```js
 !bingchilling - BING CHILLING | 250 Beans
 !bombs - Lamp Oil, Rope, BOMBS | 25 Beans
-!boom - Vineboom | 5 Beans
+!boom - Vineboom | 50 Beans
 !chungus - BIG CHUNGUS | 1000 Beans
 !death - YOu Died | 30 Beans
 !emergency - Call an emergency meeting | 25 Beans
