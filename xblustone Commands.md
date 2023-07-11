@@ -1,10 +1,18 @@
-# xblustone Commands (Last Updated 11/07/2023 11:21:43 AM)
+# xblustone Commands (Last Updated 11/07/2023 11:22:03 AM)
 Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
 ### Custom Commands <br>
 ```js
 cards<SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER] | 100 Balls
+back<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,000 Balls
+left<[MOVES ME TO THE LEFT <-- HOLDS "a" / "<--"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+light<[COULD BE USED TO SWAP TO MY FLASH LIGHT] | 100 Balls
+random<[RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 300 Balls
+right<[MOVES ME TO THE RIGHT --> HOLDS "d" / "-->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+run<[MAKES ME RUN FORWARD] | 250 Balls
+stop<[CAN BE USED TO STOP ME FROM MOVING] | 1,000 Balls
+walk<[MAKES ME WALK FORWARD] | 250 Balls
 backwards<[RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1,700 Balls
 cam<[[COULD BE USED TO SWAP TO MY FAZ CAM] | 100 Balls
 daycare<[MAKES ME STOP, AND PLAYS THE WEE WOO WEE WOO ALERT SOUND] | 1,000 Balls
