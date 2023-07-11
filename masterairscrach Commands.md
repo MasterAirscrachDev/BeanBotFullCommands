@@ -1,13 +1,17 @@
-# masterairscrach Commands (Last Updated 11/07/2023 11:00:15 AM)
+# masterairscrach Commands (Last Updated 11/07/2023 11:09:55 AM)
 Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Floor is enabled <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
-### Custom Commands <br>!bot - Here are the cool bot commands
+### Custom Commands <br>
+###  <br>
+```js
+!bot - Here are the cool bot commands
 !cat - I have to wear cat ears for 10 minutes (stackable)
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS)
-
+``` <br>
 ### Message\ <br>
- ```js!bluestone - xBluestone Channel Link
+```js
+!bluestone - xBluestone Channel Link
 !discord - Link The Discord
 !dorp - dorp
 !fishtank - Get The Fishtank Link
@@ -17,9 +21,10 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !server - Info About our minecraft servers
 !trade - My Steam Trade Link
 !waterwolf - Waterwolf Channel Link
- ``` <br>
+``` <br>
 ### sounds\ <br>
- ```js!bingchilling - BING CHILLING
+```js
+!bingchilling - BING CHILLING
 !bombs - Lamp Oil, Rope, BOMBS
 !boom - Vineboom
 !chungus - BIG CHUNGUS
