@@ -29,13 +29,13 @@ Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 ```
 ### SB\SB MOD COMMANDS <br>
 ```js
-!bchica - Summons Chica | 100 Balls
-!bmonty - Summons BABYMONTY | 100 Balls
-!broxy - Summons BROKEN ROXY | 100 Balls
-!chica - Summons Chica | 100 Balls
-!endo - Summons ENDO | 100 Balls
-!giga - Summons GIGAMONTY | 100 Balls
-!monty - Summons MONTY | 100 Balls
+!bchica - Summons Chica | 500 Balls
+!bmonty - Summons BABYMONTY | 500 Balls
+!broxy - Summons BROKEN ROXY | 500 Balls
+!chica - Summons Chica | 500 Balls
+!endo - Summons ENDO | 500 Balls
+!giga - Summons GIGAMONTY | 500 Balls
+!monty - Summons MONTY | 500 Balls
 !roxy - Summons Roxy | 100 Balls
 ```
 ### SOUNDS <br>
