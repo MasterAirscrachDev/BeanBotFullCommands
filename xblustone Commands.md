@@ -3,10 +3,6 @@ Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
 ## Custom Commands <br>
-### CARDS <br>
-```js
-!cards - SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER] | 100 Balls
-```
 ### SB <br>
 ```js
 !backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
@@ -26,17 +22,6 @@ Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !stop - [CAN BE USED TO STOP ME FROM MOVING] | 1700 Balls
 !tab - [OPENS THE FAZWATCH] | 1500 Balls
 !walk - [MAKES ME WALK FORWARD] | 250 Balls
-```
-### SB\SB MOD COMMANDS <br>
-```js
-!bchica - Summons Chica | 250 Balls
-!bmonty - Summons BABYMONTY | 250 Balls
-!broxy - Summons BROKEN ROXY | 250 Balls
-!chica - Summons Chica | 250 Balls
-!endo - Summons ENDO | 250 Balls
-!giga - Summons GIGAMONTY | 250 Balls
-!monty - Summons MONTY | 250 Balls
-!roxy - Summons Roxy | 250 Balls
 ```
 ### SOUNDS <br>
 ```js
