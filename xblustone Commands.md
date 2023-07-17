@@ -27,6 +27,17 @@ Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 !tab - [OPENS THE FAZWATCH] | 1500 Balls
 !walk - [MAKES ME WALK FORWARD] | 250 Balls
 ```
+### SB\SB MOD COMMANDS <br>
+```js
+!bchica - Summons Chica | 250 Balls
+!bmonty - Summons BABYMONTY | 250 Balls
+!broxy - Summons BROKEN ROXY | 250 Balls
+!chica - Summons Chica | 250 Balls
+!endo - Summons ENDO | 250 Balls
+!giga - Summons GIGAMONTY | 250 Balls
+!monty - Summons MONTY | 250 Balls
+!roxy - Summons Roxy | 250 Balls
+```
 ### SOUNDS <br>
 ```js
 !alert - RUM | 200 Balls
