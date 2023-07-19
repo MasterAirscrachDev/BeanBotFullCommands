@@ -49,6 +49,9 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 ```
 ### Team Fortress 2 <br>
 ```js
+!invertcontrols - inverts my controls for 60 seconds | 2000 Beans
+!killbind - Kills me if i'm alive | 10000 Beans
+!tf2 - lists my tf2 commands
 !usemelee - pulls out my melee weapon | 50 Beans
 !useprimary - pulls out my primaray weapon | 40 Beans
 !usesecondary - pulls out my secondary | 50 Beans
