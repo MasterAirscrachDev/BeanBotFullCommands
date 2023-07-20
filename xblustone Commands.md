@@ -6,6 +6,16 @@ Get Text To Speech | !tts (text) (costs 50 Balls) <br>
 ### CARDS <br>
 ```js
 !cards - [SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER] | 100 Balls
+!meow - MEOW FOR CAT?
+```
+### MC <br>
+```js
+!drop - [SWAP TO RANDOM ITEM IN MY HOTBAR AND DROP IT] | 300 Balls
+!lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
+!mc - lists my FNAF: Security Breach commands
+!qdrop - [CAN BE USED TO DROP AN ITEM IN THE SLOT IM USING COST] | 200 Balls
+!randomkey - [COULD BE USED TO PRESS A RANDOM KEY XD KEYS (WASD T-Q-E -SPACE, SHIFT, & TAB] | 250 Balls
+!stop - [CAN BE USED TO STOP ME FROM MOVING] | 500 Balls
 ```
 ### SOUNDS <br>
 ```js
