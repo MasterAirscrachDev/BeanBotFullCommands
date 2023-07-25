@@ -8,37 +8,6 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !cards - [SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER] | 100 Balls
 !meow - MEOW FOR CAT?
 ```
-### SB <br>
-```js
-!backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
-!cam - [[COULD BE USED TO SWAP TO MY FAZ CAM] | 100 Balls
-!daycare - [MAKES ME STOP, AND PLAYS THE WEE WOO WEE WOO ALERT SOUND] | 1000 Balls
-!eject - [EJECTS ME] | 1500 Balls
-!gun - [COULD BE USED TO SWAP TO MY BLASTER] | 100 Balls
-!lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
-!left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!light - [COULD BE USED TO SWAP TO MY FLASH LIGHT] | 100 Balls
-!misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 1500 Balls
-!random - [RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!run - [MAKES ME RUN FORWARD] | 400 Balls
-!sb - lists my FNAF: Security Breach commands
-!spam - [SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
-!stop - [CAN BE USED TO STOP ME FROM MOVING] | 1700 Balls
-!tab - [OPENS THE FAZWATCH] | 1500 Balls
-!walk - [MAKES ME WALK FORWARD] | 250 Balls
-```
-### SB\SB MOD COMMANDS <br>
-```js
-!bchica - Summons Chica | 250 Balls
-!bmonty - Summons BABYMONTY | 250 Balls
-!broxy - Summons BROKEN ROXY | 250 Balls
-!chica - Summons Chica | 250 Balls
-!endo - Summons ENDO | 250 Balls
-!giga - Summons GIGAMONTY | 250 Balls
-!monty - Summons MONTY | 250 Balls
-!roxy - Summons Roxy | 250 Balls
-```
 ### SOUNDS <br>
 ```js
 !alert - RUM | 200 Balls
