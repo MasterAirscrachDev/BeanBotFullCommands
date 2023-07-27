@@ -13,6 +13,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !alert - RUM | 200 Balls
 !ambience - FNAF 2 Ambience | 200 Balls
 !bombs - 3 2 1 BOOM! (BOMB) | 200 Balls
+!diplodocus - Diplodocus!  | 200 Balls
 !emergency - Emergency SUSSY SUSSY | 200 Balls
 !hello - BB Hello :D | 200 Balls
 !honk - BOOPS FREDDY NOSE :3 TEHE | 200 Balls
