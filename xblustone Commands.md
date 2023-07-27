@@ -17,6 +17,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !hello - BB Hello :D | 200 Balls
 !honk - BOOPS FREDDY NOSE :3 TEHE | 200 Balls
 !jumpscare - JUMPSCARE OOOO SCAWWY | 200 Balls
+!kids - MUSIC BOX IN FNAF 2 | 200 Balls
 !laugh - hahahah LOL | 200 Balls
 !ltopgun - TOP GUN SOUND COOL LONG VERSION 21 SECONDS | 500 Balls
 !musicbox - MUSIC BOX IN FNAF 2 | 200 Balls
