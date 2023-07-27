@@ -10,8 +10,8 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ```
 ### CAT <br>
 ```js
-!cat - [CAT CMD]
-!cats - [CAT CMD]
+!cat - [CAT CMD] | 50 Balls
+!cats - [CAT CMD] | 50 Balls
 ```
 ### SOUNDS <br>
 ```js
