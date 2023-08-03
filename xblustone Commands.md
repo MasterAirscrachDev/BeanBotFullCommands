@@ -11,22 +11,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ### CAT <br>
 ```js
 !cats - [CAT CMD] | 50 Balls
-```
-### MC <br>
-```js
-!backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
-!left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!mc - lists my FNAF: Security Breach commands
-!misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 100 Balls
-!q - [SWAP TO RANDOM ITEM IN MY HOTBAR AND DROP IT] | 300 Balls
-!qdrop - [CAN BE USED TO DROP AN ITEM IN THE SLOT IM USING COST] | 200 Balls
-!random - [RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!randomkey - [COULD BE USED TO PRESS A RANDOM KEY XD KEYS (WASD T-Q-E -SPACE, SHIFT, & TAB] | 250 Balls
-!right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!run - [MAKES ME RUN FORWARD] | 400 Balls
-!stop - [CAN BE USED TO STOP ME FROM MOVING] | 500 Balls
-!walk - [MAKES ME WALK FORWARD] | 250 Balls
+!tea - [TEA CMD MORE COMING SOON *WILL BE FACTS ABOUT TEA*] | 50 Balls
 ```
 ### SOUNDS <br>
 ```js
