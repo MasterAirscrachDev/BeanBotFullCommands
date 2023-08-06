@@ -22,6 +22,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !mc - lists my FNAF: Security Breach commands
 !mine - [MAKES ME MINE] | 250 Balls
 !misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 100 Balls
+!place - [MAKES ME PLACE OR USE WHATEVER IS IN MY HAND] | 250 Balls
 !q - [SWAP TO RANDOM ITEM IN MY HOTBAR AND DROP IT] | 300 Balls
 !qdrop - [CAN BE USED TO DROP AN ITEM IN THE SLOT IM USING COST] | 200 Balls
 !random - [RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
