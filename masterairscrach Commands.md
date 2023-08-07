@@ -8,6 +8,12 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
 ```
+### Deep Rock Galactic <br>
+```js
+!drg - ROCK AND STONE
+!explosive - Throws Explosives if i have them (Driller Only) | 1000 Beans
+!rockandstone - ROCK AND STONE | 300 Beans
+```
 ### Messages <br>
 ```js
 !bluestone - xBluestone Channel Link
