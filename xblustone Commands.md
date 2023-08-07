@@ -15,6 +15,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ```
 ### ER <br>
 ```js
+!backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
 !crouch - [SWAP MY ITEM] | 300 Balls
 !er - LIST OF ELDEN RING COMMANDS !HELP | !ER
 !jump - [COULD BE USED TO SPAM SPACE] | 250 Balls
