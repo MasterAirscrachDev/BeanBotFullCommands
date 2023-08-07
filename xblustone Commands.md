@@ -13,24 +13,21 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !cats - [CAT CMD] | 50 Balls
 !tea - [TEA CMD MORE COMING SOON *WILL BE FACTS ABOUT TEA*] | 50 Balls
 ```
-### MC <br>
+### ER <br>
 ```js
-!backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!fdrop - [SWAP MY OFFHAND ITEM TO MY HOTBAR AND DROP IT] | 300 Balls
+!crouch - [SWAP MY ITEM] | 300 Balls
+!er - LIST OF ELDEN RING COMMANDS !HELP | !ER
 !jump - [COULD BE USED TO SPAM SPACE] | 250 Balls
 !lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
 !left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!mc - lists my FNAF: Security Breach commands
-!mine - [MAKES ME MINE] | 250 Balls
+!map - [OPENS MAP] | 300 Balls
 !misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 100 Balls
-!place - [MAKES ME PLACE OR USE WHATEVER IS IN MY HAND] | 250 Balls
-!q - [SWAP TO RANDOM ITEM IN MY HOTBAR AND DROP IT] | 300 Balls
-!qdrop - [CAN BE USED TO DROP AN ITEM IN THE SLOT IM USING] | 200 Balls
-!random - [RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!randomkey - [COULD BE USED TO PRESS A RANDOM KEY. XD KEYS (WASD T-Q-E -SPACE, SHIFT, & TAB] | 250 Balls
+!r - [USES MY HEAL ITEMS] | 300 Balls
 !right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+!rspam - [SPAM USES MY HEAL ITEMS] | 300 Balls
 !run - [MAKES ME RUN FORWARD] | 400 Balls
 !stop - [CAN BE USED TO STOP ME FROM MOVING] | 500 Balls
+!swap - [SWAP MY ITEM] | 300 Balls
 !walk - [MAKES ME WALK FORWARD] | 250 Balls
 ```
 ### SOUNDS <br>
