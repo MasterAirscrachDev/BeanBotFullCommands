@@ -13,24 +13,6 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !cats - [CAT CMD] | 50 Balls
 !tea - [TEA CMD MORE COMING SOON *WILL BE FACTS ABOUT TEA*] | 50 Balls
 ```
-### ER <br>
-```js
-!backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
-!crouch - [SWAP MY ITEM] | 300 Balls
-!er - LIST OF ELDEN RING COMMANDS !HELP | !ER
-!jump - [COULD BE USED TO SPAM SPACE] | 250 Balls
-!lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
-!left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!map - [OPENS MAP] | 300 Balls
-!misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 100 Balls
-!r - [USES MY HEAL ITEMS] | 300 Balls
-!right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!rspam - [SPAM USES MY HEAL ITEMS] | 300 Balls
-!run - [MAKES ME RUN FORWARD] | 400 Balls
-!stop - [CAN BE USED TO STOP ME FROM MOVING] | 500 Balls
-!swap - [SWAP MY ITEM] | 300 Balls
-!walk - [MAKES ME WALK FORWARD] | 250 Balls
-```
 ### SOUNDS <br>
 ```js
 !alert - RUM | 200 Balls
@@ -54,3 +36,17 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !topgun - TOP GUN SOUND COOL | 200 Balls
 !welldone - welldone | 200 Balls
 !wizard - wizard | 200 Balls
+```
+### SUB <br>
+```js
+!decon - [DECONSTRUCTS BUILDINGS/BASES (ONLY USE WHEN IM BUILDING)] | 300 Balls
+!holster - [HOLSTERS MY ITEM/WEAPON OR TOOL] | 300 Balls
+!jump - [PRESSES SPACE (JUMP)] | 300 Balls
+!lclick - [CLICKS LEFT MOUSE (FOR WEAPONS TOOLS OR ITEMS)] | 500 Balls
+!pda - [OPENS THE PDA MENU] | 300 Balls
+!random - [RANDOMLY SWAPS TO A HOT BAR ITEM (FROM 1-5)] | 300 Balls
+!randomkey - [RANDOMLY PRESSES W,A,D,S SPACE AND C] | 300 Balls
+!rclick - [CLICKS RIGHT MOUSE (FOR WEAPONS TOOLS OR ITEMS)] | 500 Balls
+!run - [MAKES ME RUN FORWARD] | 400 Balls
+!stop - [CAN BE USED TO STOP ME FROM MOVING] | 1000 Balls
+!sub - LIST OF ELDEN RING COMMANDS !HELP | !ER
