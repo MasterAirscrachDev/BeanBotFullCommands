@@ -26,6 +26,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !kids - MUSIC BOX IN FNAF 2 | 200 Balls
 !laugh - hahahah LOL | 200 Balls
 !ltopgun - TOP GUN SOUND COOL LONG VERSION 21 SECONDS | 500 Balls
+!matters - MUSIC BOX IN FNAF 2 | 200 Balls
 !musicbox - MUSIC BOX IN FNAF 2 | 200 Balls
 !obi - OBI WAN | 200 Balls
 !pipe - ahhhh PIPES | 200 Balls
