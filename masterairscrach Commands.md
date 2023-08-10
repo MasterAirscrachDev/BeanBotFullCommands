@@ -8,6 +8,10 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
 ```
+### Beat Saber <br>
+```js
+!bsr - Request A Song | 20 Beans
+```
 ### Messages <br>
 ```js
 !bluestone - xBluestone Channel Link
