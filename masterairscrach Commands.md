@@ -44,5 +44,6 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !sounds - Here are the sound effects
 !supershit - How'd you fuck that one up that badly | 25 Beans
 !ticking - TickTickTickTickTickTickTickTickTick | 1000 Beans
-!voices - Have you heard of among us
+!vent - Have you heard of among us | 1000 Beans
+!voices - How'd you fuck that one up that badly
 !welldone - Well Done Gregory | 25 Beans
