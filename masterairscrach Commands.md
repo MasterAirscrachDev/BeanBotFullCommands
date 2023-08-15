@@ -49,3 +49,4 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !sawcon - Deez Nuts | 50 Beans
 !shoot - Fires My Weapon | 50 Beans
 !shotgun - GUN | 50 Beans
+!ultrakill - lists my ultrakill commands
