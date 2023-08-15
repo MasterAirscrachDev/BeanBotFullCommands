@@ -8,12 +8,6 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
 ```
-### Deep Rock Galactic <br>
-```js
-!drg - ROCK AND STONE
-!explosive - Throws Explosives if i have them (Driller Only) | 1000 Beans
-!rockandstone - ROCK AND STONE | 300 Beans
-```
 ### Messages <br>
 ```js
 !bluestone - xBluestone Channel Link
@@ -45,5 +39,13 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !supershit - How'd you fuck that one up that badly | 25 Beans
 !ticking - TickTickTickTickTickTickTickTickTick | 1000 Beans
 !vent - Have you heard of among us | 1000 Beans
-!voices - How'd you fuck that one up that badly
 !welldone - Well Done Gregory | 25 Beans
+```
+### Ultrakill <br>
+```js
+!pistol - GUN | 50 Beans
+!rail - Imma FIRING MY LAZER | 50 Beans
+!rocket - Rocket | 50 Beans
+!sawcon - Deez Nuts | 50 Beans
+!shoot - Fires My Weapon | 50 Beans
+!shotgun - GUN | 50 Beans
