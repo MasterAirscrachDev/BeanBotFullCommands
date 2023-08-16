@@ -40,13 +40,3 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !ticking - TickTickTickTickTickTickTickTickTick | 1000 Beans
 !vent - Have you heard of among us | 1000 Beans
 !welldone - Well Done Gregory | 25 Beans
-```
-### Ultrakill <br>
-```js
-!pistol - GUN | 50 Beans
-!rail - Imma FIRING MY LAZER | 50 Beans
-!rocket - Rocket | 50 Beans
-!sawcon - Deez Nuts | 50 Beans
-!shoot - Fires My Weapon | 50 Beans
-!shotgun - GUN | 50 Beans
-!ultrakill - lists my ultrakill commands
