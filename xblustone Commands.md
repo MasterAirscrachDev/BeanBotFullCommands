@@ -13,19 +13,6 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !cats - [CAT CMD] | 50 Balls
 !tea - [TEA CMD MORE COMING SOON *WILL BE FACTS ABOUT TEA*] | 50 Balls
 ```
-### KILL <br>
-```js
-!backwards - [PRESSES S TO GO BACKWARDS (THE CONTROLS FOR BASIC MOVEMENT)] | 700 Balls
-!jump - [PRESSES SPACE (JUMP)] | 300 Balls
-!lclick - [CLICKS LEFT MOUSE (FOR WEAPONS TOOLS OR ITEMS)] | 500 Balls
-!lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
-!left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!randomkey - [RANDOMLY PRESSES W,A,D,S SPACE] | 300 Balls
-!right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!run - [MAKES ME RUN FORWARD] | 400 Balls
-!stop - [CAN BE USED TO STOP ME FROM MOVING] | 1000 Balls
-!uk - LIST OF ULTRAKILL COMMANDS !HELP | !UK
-```
 ### SOUNDS <br>
 ```js
 !alert - RUM | 200 Balls
@@ -50,3 +37,17 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !topgun - TOP GUN SOUND COOL | 200 Balls
 !welldone - welldone | 200 Balls
 !wizard - wizard | 200 Balls
+```
+### SUB <br>
+```js
+!decon - [DECONSTRUCTS BUILDINGS/BASES (ONLY USE WHEN IM BUILDING)] | 300 Balls
+!holster - [HOLSTERS MY ITEM/WEAPON OR TOOL] | 300 Balls
+!jump - [PRESSES SPACE (JUMP)] | 300 Balls
+!lclick - [CLICKS LEFT MOUSE (FOR WEAPONS TOOLS OR ITEMS)] | 500 Balls
+!pda - [OPENS THE PDA MENU] | 300 Balls
+!random - [RANDOMLY SWAPS TO A HOT BAR ITEM (FROM 1-5)] | 300 Balls
+!randomkey - [RANDOMLY PRESSES W,A,D,S SPACE AND C] | 300 Balls
+!rclick - [CLICKS RIGHT MOUSE (FOR WEAPONS TOOLS OR ITEMS)] | 500 Balls
+!run - [MAKES ME RUN FORWARD] | 400 Balls
+!stop - [CAN BE USED TO STOP ME FROM MOVING] | 1000 Balls
+!sub - LIST OF ELDEN RING COMMANDS !HELP | !ER
