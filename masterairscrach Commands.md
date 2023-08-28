@@ -40,3 +40,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !ticking - TickTickTickTickTickTickTickTickTick | 1000 Beans
 !vent - Have you heard of among us | 1000 Beans
 !welldone - Well Done Gregory | 25 Beans
+```
+### Trackmania <br>
+```js
+!horn - Honk The Horn | 300 Beans
