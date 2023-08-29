@@ -10,6 +10,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 ```
 ### Apex Legends <br>
 ```js
+!apex - lists my apex commands
 !usemelee - pulls out my melee weapon | 50 Beans
 !useprimary - pulls out my primaray weapon | 40 Beans
 !usesecondary - pulls out my secondary | 50 Beans
