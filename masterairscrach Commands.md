@@ -8,13 +8,11 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
 ```
-### debug commands <br>
+### Apex Legends <br>
 ```js
-!control - Test command
-!mouse - Test command
-!persisttest - Test command
-!speeeeed - Spawns Monty
-!tp - Spawns Monty
+!usemelee - pulls out my melee weapon | 50 Beans
+!useprimary - pulls out my primaray weapon | 40 Beans
+!usesecondary - pulls out my secondary | 50 Beans
 ```
 ### Messages <br>
 ```js
@@ -48,7 +46,3 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !ticking - TickTickTickTickTickTickTickTickTick | 1000 Beans
 !vent - Have you heard of among us | 1000 Beans
 !welldone - Well Done Gregory | 25 Beans
-```
-### Trackmania <br>
-```js
-!horn - Honk The Horn | 300 Beans
