@@ -12,6 +12,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 ```js
 !control - Test command
 !mouse - Test command
+!persisttest - Test command
 !speeeeed - Spawns Monty
 !tp - Spawns Monty
 ```
