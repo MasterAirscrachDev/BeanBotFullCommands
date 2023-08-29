@@ -11,6 +11,8 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 ### Apex Legends <br>
 ```js
 !apex - lists my apex commands
+!plusforward - forces me to walk forward for 30 seconds | 400 Beans
+!shoot - Fires My Weapon | 50 Beans
 !usemelee - pulls out my melee weapon | 50 Beans
 !useprimary - pulls out my primaray weapon | 40 Beans
 !usesecondary - pulls out my secondary | 50 Beans
