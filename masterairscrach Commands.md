@@ -8,6 +8,13 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
 ```
+### debug commands <br>
+```js
+!control - Test command
+!mouse - Test command
+!speeeeed - Spawns Monty
+!tp - Spawns Monty
+```
 ### Messages <br>
 ```js
 !bluestone - xBluestone Channel Link
