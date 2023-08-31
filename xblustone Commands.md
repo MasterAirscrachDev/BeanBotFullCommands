@@ -41,7 +41,6 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !run - [MAKES ME RUN FORWARD] | 400 Balls
 !sb - lists my FNAF: Security Breach commands
 !spam - [SPAMS "E" OR "Q". 50/50 CHANCE, IT CAN BE USED TO CALL FREDDY OR KILL ME IN THE ESPAM ROOM (BACKSTAGE)] | 250 Balls
-!stop - [CAN BE USED TO STOP ME FROM MOVING] | 2000 Balls
 !tab - [OPENS THE FAZWATCH] | 1500 Balls
 !walk - [MAKES ME WALK FORWARD] | 250 Balls
 ```
