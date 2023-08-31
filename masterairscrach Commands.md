@@ -4,19 +4,9 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
 ## Custom Commands <br>
 ```js
-!adventure - The Super Cool Adventure
 !bot - Here are the cool bot commands
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
-```
-### Apex Legends <br>
-```js
-!apex - lists my apex commands
-!plusforward - forces me to walk forward for 30 seconds | 400 Beans
-!shoot - Fires My Weapon | 50 Beans
-!usemelee - pulls out my melee weapon | 50 Beans
-!useprimary - pulls out my primaray weapon | 40 Beans
-!usesecondary - pulls out my secondary | 50 Beans
 ```
 ### Messages <br>
 ```js
