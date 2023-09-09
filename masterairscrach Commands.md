@@ -4,6 +4,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !Openminigames costs 3000 Beans and lasts 3 minutes <br>
 ## Custom Commands <br>
 ```js
+!adventure - The Super Cool Adventure
 !bot - Here are the cool bot commands
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4000 Beans
