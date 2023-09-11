@@ -5,7 +5,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ## Custom Commands <br>
 ### AIR GAME <br>
 ```js
-!adventureperams - The Super Cool Adventure
+!adventure - The Super Cool Adventure
 ```
 ### CARDS <br>
 ```js
