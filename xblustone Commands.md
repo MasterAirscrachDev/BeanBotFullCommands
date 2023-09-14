@@ -52,5 +52,6 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !terrible - Terrible | 200 Balls
 !ticking - Ticking | 200 Balls
 !topgun - TOP GUN SOUND COOL | 200 Balls
+!wakeup - wizard | 200 Balls
 !welldone - welldone | 200 Balls
 !wizard - wizard | 200 Balls
