@@ -12,6 +12,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 ### Messages <br>
 ```js
 !bluestone - xBluestone Channel Link
+!blustone - Bluestone Channel Link
 !discord - Link The Discord
 !dorp - dorp
 !fishtank - Get The Fishtank Link
