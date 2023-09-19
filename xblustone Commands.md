@@ -13,6 +13,19 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !cat - [CAT CMD] | 50 Balls
 !uwu - [UWU STEAL EGG?] | 50 Balls
 ```
+### KILL <br>
+```js
+!backwards - [PRESSES S TO GO BACKWARDS (THE CONTROLS FOR BASIC MOVEMENT)] | 700 Balls
+!jump - [PRESSES SPACE (JUMP)] | 300 Balls
+!jv - LIST OF ULTRAKILL COMMANDS !HELP | !UK
+!lclick - [CLICKS LEFT MOUSE (FOR WEAPONS TOOLS OR ITEMS)] | 500 Balls
+!lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
+!left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+!randomkey - [RANDOMLY PRESSES W,A,D,S SPACE] | 300 Balls
+!right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+!run - [MAKES ME RUN FORWARD] | 400 Balls
+!stop - [CAN BE USED TO STOP ME FROM MOVING] | 1000 Balls
+```
 ### SOUNDS <br>
 ```js
 !alert - RUM | 200 Balls
