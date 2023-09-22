@@ -44,6 +44,9 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !vent - Have you heard of among us | 1000 Beans
 !welldone - Well Done Gregory | 25 Beans
 ``` 
+
+## Base Commands 
+```js
 <The Help Command | Catagories: Beans, Minigames, Events, About, TTS. or get a full list here: github.com/MasterAirscrachDev/BeanBotFullCommands/blob/main/masterairscrach%20Commands.md <br> 
  beans<You Gain 1-3 Beans Every Minute Your Active in Chat | Commands: !Beans !GiveBeans, !BeanBoard, !FreeBeans, !Floor, !Steal <br> 
  givebeans<Give someone Beans | !givebeans (@user) (amount) <br> 
@@ -94,4 +97,4 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
  prestige<Prestige your Beans | !prestige (costs 1,000,000,000 Beans) <br> 
  cows<Nothing can save you now <br> 
  picknum<[WHISPER] Pick a number between 1 and 10 for the OneUps Minigame | PICKNUM (number) <br> 
- active<[WHISPER] All the chats your detected in | ACTIVE
+ active<[WHISPER] All the chats your detected in | ACTIVE```
