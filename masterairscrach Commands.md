@@ -78,7 +78,7 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !clearcounter<[MOD]Removes The counter from the capture, does not reset the counter | !clearcounter
 !counter<View/Change the counter for an event |[MOD] !Counter+ |[MOD] !Counter- | Counter
 !about<Get some info | !help about bot !help about creator !help about inspiration
-!about bot<(Running BeanBot.exe v1.3.3) Beanbot's goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
+!about bot<(Running BeanBot.exe v1.3.3) Beanbot\'s goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
 !about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
 !about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
 !about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
@@ -97,4 +97,5 @@ Get Text To Speech | !tts (text) (costs 50 Beans) <br>
 !prestige<Prestige your Beans | !prestige (costs 1,000,000,000 Beans)
 !cows<Nothing can save you now
 !picknum<[WHISPER] Pick a number between 1 and 10 for the OneUps Minigame | PICKNUM (number)
-!active<[WHISPER] All the chats your detected in | ACTIVE```
+!active<[WHISPER] All the chats your detected in | ACTIVE
+```
