@@ -8,7 +8,6 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !adventure - The Super Cool Adventure
 !bot - Here are the cool bot commands
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3,000 Beans
-!functest - function test
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
 ```
 ### Messages <br>
