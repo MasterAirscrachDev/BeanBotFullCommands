@@ -18,10 +18,11 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
 !cover - [GOES IN OR OUT OF COVER ME] | 200 Balls
 !eject - [EJECTS ME] | 1500 Balls
+!fire - [FIRES MY GUN FOR 5SECONDS] | 400 Balls
 !gta - lists my GTA COMMANDS
 !lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
 !left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
-!misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 1500 Balls
+!misclick - [MIS FIRES OR PUNCHES] | 1500 Balls
 !pov - [CHANGES MY POV FROM 1ST TO 2ND OR 3RD CAM] | 400 Balls
 !random - [RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 !reloadgun - [RELOADS MY GUN] | 200 Balls
