@@ -16,6 +16,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ### gta <br>
 ```js
 !backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
+!cover - [EJECTS ME] | 1500 Balls
 !eject - [EJECTS ME] | 1500 Balls
 !gta - lists my GTA COMMANDS
 !lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
