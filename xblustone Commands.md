@@ -5,6 +5,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ## Custom Commands <br>
 ### CARDS <br>
 ```js
+!ace - MEOW FOR CAT? | 100 Balls
 !cardstest - MEOW FOR CAT?
 ```
 ### CAT <br>
