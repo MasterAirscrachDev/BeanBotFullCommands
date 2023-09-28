@@ -3,17 +3,12 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !Floor Is Disabled <br>
 !Openminigames costs 50000 Balls and lasts 3 minutes <br>
 ## Custom Commands <br>
-### CARDS <br>
-```js
-!ace - MEOW FOR CAT? | 100 Balls
-!cards - (CARD COLLECTION INVENTORY TYPE !SELL TO SELL ALL CARDS)
-```
 ### CAT <br>
 ```js
 !cat - [CAT CMD] | 50 Balls
 !uwu - [UWU STEAL EGG?] | 50 Balls
 ```
-### gta <br>
+### GTA <br>
 ```js
 !backwards - [MAKES ME WALK BACKWARDS] | 1700 Balls
 !cover - [TO COVER OR GET OUT OF COVER] | 200 Balls
