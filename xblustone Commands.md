@@ -19,6 +19,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !cover - [TO COVER OR GET OUT OF COVER] | 200 Balls
 !eject - [HYJACK OR EJECT FROM CARS] | 1500 Balls
 !fire - [FIRES MY GUN FOR 5 SECONDS] | 400 Balls
+!gta - GTA V COMMANDS
 !lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT 50/50 CHANCE] | 250 Balls
 !left - [MOVES ME TO THE LEFT <- HOLDS "a" / "<-"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 !missclick - [MISS FIRES OR PUNCHES] | 1500 Balls
