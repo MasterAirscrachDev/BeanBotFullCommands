@@ -6,7 +6,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ### CARDS <br>
 ```js
 !ace - MEOW FOR CAT? | 100 Balls
-!cards - MEOW FOR CAT?
+!cards - (CARD COLLECTION INVENTORY TYPE !SELL TO SELL ALL CARDS.)
 ```
 ### CAT <br>
 ```js
