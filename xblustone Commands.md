@@ -16,7 +16,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 ### gta <br>
 ```js
 !backwards - [RANDOMLY SPAM W,A,S,D SPACE, SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 1700 Balls
-!cover - [EJECTS ME] | 1500 Balls
+!cover - [GOES IN OR OUT OF COVER ME] | 200 Balls
 !eject - [EJECTS ME] | 1500 Balls
 !gta - lists my GTA COMMANDS
 !lean - [COULD BE USED TO MOVE ME TO THE LEFT OR RIGHT] | 250 Balls
@@ -24,6 +24,7 @@ Get Text To Speech | !tts (text) (costs 250 Balls) <br>
 !light - [COULD BE USED TO SWAP TO MY FLASH LIGHT] | 100 Balls
 !misclick - [COULD BE USED TO KILL ME DURING AN UPGRADE] | 1500 Balls
 !random - [RANDOMLY SPAM W,A,S,D SPACE OR CRTL (THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
+!reload - [RELOADS MY GUN] | 200 Balls
 !right - [MOVES ME TO THE RIGHT -> HOLDS "D" / "->"(THE CONTROLS FOR BASIC MOVEMENT)] | 250 Balls
 !run - [MAKES ME RUN FORWARD] | 400 Balls
 !stop - [CAN BE USED TO STOP ME FROM MOVING] | 2000 Balls
