@@ -7,6 +7,7 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 ```js
 !adventure - The Super Cool Adventure
 !bot - Here are the cool bot commands
+!cardstest3 - [SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER]
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3,000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
 ```
