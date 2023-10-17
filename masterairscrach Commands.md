@@ -45,15 +45,17 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !vent - Have you heard of among us | 1,000 Beans
 !welldone - Well Done Gregory | 25 Beans
 ```
-### Ultrakill <br>
+### Team Fortress 2 <br>
 ```js
-!pistol - GUN | 50 Beans
-!rail - Imma FIRING MY LAZER | 50 Beans
-!rocket - Rocket | 50 Beans
-!sawcon - Deez Nuts | 50 Beans
+!invertcontrols - inverts my controls for 60 seconds | 2,000 Beans
+!killbind - Kills me if i׳m alive | 10,000 Beans
+!pickmyweapon - Pick a weapon for me to play for a match (If I Have It, ask to see all my weapons) | 100 Beans
+!plusforward - forces me to walk forward for 30 seconds | 400 Beans
 !shoot - Fires My Weapon | 50 Beans
-!shotgun - GUN | 50 Beans
-!ultrakill - lists my ultrakill commands
+!tf2 - lists my tf2 commands
+!usemelee - pulls out my melee weapon | 50 Beans
+!useprimary - pulls out my primaray weapon | 40 Beans
+!usesecondary - pulls out my secondary | 50 Beans
 ``` 
 
 ## Base Commands 
