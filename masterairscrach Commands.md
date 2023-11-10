@@ -18,6 +18,8 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !discord - Link The Discord
 !dorp - dorp
 !fishtank - Get The Fishtank Link
+!games - Check out my sick games
+!github - Funky code site
 !hot - Come on, you know who it is
 !multi - The Multistream link
 !penis - say penis | 1,000,000 Beans
