@@ -2,7 +2,7 @@
 Get Text To Speech | !tts (text) (25 letters per token) <br>
 
 
-!Openminigames costs 10000 Beans and lasts 6 minutes <br>
+!Openminigames costs 0 Beans and lasts 6 minutes <br>
 ## Custom Commands <br>``` 
 
 ## Base Commands 
@@ -15,7 +15,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !floor<Check the floor for any {Program.config.currencies} | {Program.config.prefix}floor
 !editbeans<[STREAMER] Edit a users Beans | !editbeans (optional @user) (amount) | edit gold !editbeans (@user) (amount) gold
 !minigames<Minigames to play in chat | Commands: !OpenMinigames !Coinflip  !OneUps !Quickmath 
-!openminigames<Unlocks the minigames for 6 minutes, can be stacked | !openminigames (costs 10,000 Beans)
+!openminigames<Unlocks the minigames for 6 minutes, can be stacked | !openminigames (costs 0 Beans)
 !coinflip<Flip a coin, if you bet you will get double your bet on correct guess | !coinflip (optional:[heads/tails] [amount]) betting is capped at 1000 Beans
 !quickmath<Answer a math question in a timelimit, your are awarded based on the complexity | !quickmath | !answer (answer rounded to 1 decimal place)
 !answer<Answer a math question in a timelimit, your are awarded based on the complexity | !quickmath | !answer (answer rounded to 1 decimal place)
