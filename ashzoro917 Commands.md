@@ -5,7 +5,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !Openminigames costs 0 Beans and lasts 6 minutes <br>
 ## Custom Commands <br>
 ```js
-!all my fellas -  you play all my fellas thats it
+!allmyfellas -  you play all my fellas thats it
 ``` 
 
 ## Base Commands 
