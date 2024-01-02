@@ -8,6 +8,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !all my fellas -  you play all my fellas thats it
 !allmyfellas -  you play all my fellas thats it
 !imabouttocu -  you play all my fellas thats it | 30 Beans
+!nut -  nut | 1 Beans
 !racist -  you play all my fellas thats it | 10 Beans
 !slumber -  you play all my fellas thats it | 20 Beans
 !wasted -  you play all my fellas thats it | 25 Beans
