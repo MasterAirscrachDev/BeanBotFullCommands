@@ -8,8 +8,17 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !adventure - The Super Cool Adventure
 !bot - Here are the cool bot commands
 !cardstest3 - [SIMPLE CARDS BY BLUE, EARN BALLS BY PLAYING CARDS "!CARDS" COST 100 BALLS TO ENTER]
-!cat - I have to wear cat ears for 10 minutes (stackable) | 3,000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
+```
+### Deep Rock Galactic <br>
+```js
+!drg - deep rock galactic commands || ROCK AND STONE
+!explosive - Throws Explosives if i have them (Driller Only) | 1,000 Beans
+!grapple - uses my grapple hook (Scout Only) | 200 Beans
+!loadout - choose my class and loadout for the next mission | 800 Beans
+!molly - calls molly to me | 300 Beans
+!recall - recalls all my sentries (Engie Only) | 600 Beans
+!rockandstone - ROCK AND STONE | 300 Beans
 ```
 ### Messages <br>
 ```js
