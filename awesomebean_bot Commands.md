@@ -6,6 +6,8 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 ## Custom Commands <br>
 ```js
 !bot - Get A Download Link For The Bot
+!game - The Rules And Objectives Of ULTRA SPACE PINBALL
+!links - An explanation of whats going on here
 !what - An explanation of whats going on here
 ``` 
 
