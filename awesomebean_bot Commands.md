@@ -3,7 +3,11 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 
 
 !Openminigames costs 10000 Beans and lasts 6 minutes <br>
-## Custom Commands <br>``` 
+## Custom Commands <br>
+```js
+!bot - Get A Download Link For The Bot
+!what - An explanation of whats going on here
+``` 
 
 ## Base Commands 
 ```js
