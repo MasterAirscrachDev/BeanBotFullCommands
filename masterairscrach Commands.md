@@ -11,16 +11,6 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !cat - I have to wear cat ears for 10 minutes (stackable) | 3,000 Beans
 !whiteboard - Request me to draw somthing on the whitboard (must obey Twitch TOS) | 4,000 Beans
 ```
-### Deep Rock Galactic <br>
-```js
-!drg - deep rock galactic commands || ROCK AND STONE
-!explosive - Throws Explosives if i have them (Driller Only) | 1,000 Beans
-!grapple - uses my grapple hook (Scout Only) | 200 Beans
-!loadout - choose my class and loadout for the next mission | 800 Beans
-!molly - calls molly to me | 300 Beans
-!recall - recalls all my sentries (Engie Only) | 600 Beans
-!rockandstone - ROCK AND STONE | 300 Beans
-```
 ### Messages <br>
 ```js
 !bluestone - xBluestone Channel Link
@@ -56,6 +46,18 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !ticking - TickTickTickTickTickTickTickTickTick | 1,000 Beans
 !vent - Have you heard of among us | 1,000 Beans
 !welldone - Well Done Gregory | 25 Beans
+```
+### Team Fortress 2 <br>
+```js
+!invertcontrols - inverts my controls for 60 seconds | 2,000 Beans
+!killbind - Kills me if i׳m alive | 10,000 Beans
+!pickmyweapon - Pick a weapon for me to play for a match (If I Have It, ask to see all my weapons) | 100 Beans
+!plusforward - forces me to walk forward for 30 seconds | 400 Beans
+!shoot - Fires My Weapon | 50 Beans
+!tf2 - lists my tf2 commands
+!usemelee - pulls out my melee weapon | 50 Beans
+!useprimary - pulls out my primaray weapon | 40 Beans
+!usesecondary - pulls out my secondary | 50 Beans
 ``` 
 
 ## Base Commands 
