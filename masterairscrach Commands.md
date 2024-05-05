@@ -27,6 +27,10 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !trade - My Steam Trade Link
 !waterwolf - Waterwolf Channel Link
 ```
+### Rain World <br>
+```js
+!jump - Do a flip | 50 Beans
+```
 ### Sounds <br>
 ```js
 !bingchilling - BING CHILLING | 250 Beans
