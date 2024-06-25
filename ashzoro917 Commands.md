@@ -7,6 +7,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 ```js
 !all my fellas -  you play all my fellas thats it
 !allmyfellas -  you play all my fellas thats it
+!imabouttocu -  you play all my fellas thats it | 30 Beans
 ``` 
 
 ## Base Commands 
