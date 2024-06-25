@@ -9,6 +9,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !allmyfellas -  you play all my fellas thats it
 !imabouttocu -  you play all my fellas thats it | 30 Beans
 !nut -  nut | 1 Beans
+!racist -  you play all my fellas thats it | 10 Beans
 ``` 
 
 ## Base Commands 
