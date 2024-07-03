@@ -16,6 +16,7 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !bow - Pulls Out My bow | 250 Beans
 !dash - Makes me dash | 200 Beans
 !hammer - Pulls Out My Hammer | 250 Beans
+!pick - Pick My Next Upgrade | 800 Beans
 !sword - Pulls Out My Sword | 250 Beans
 ```
 ### Messages <br>
