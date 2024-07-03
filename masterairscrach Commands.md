@@ -14,7 +14,9 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 ### Clone Drone In The Danger Zone <br>
 ```js
 !bow - Pulls Out My bow | 250 Beans
+!convert - Convert Beans To Death Coins | 100 Beans
 !dash - Makes me dash | 200 Beans
+!freecoins - Give a user coins
 !hammer - Pulls Out My Hammer | 250 Beans
 !pick - Pick My Next Upgrade | 800 Beans
 !sword - Pulls Out My Sword | 250 Beans
