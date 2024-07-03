@@ -49,15 +49,15 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 ```
 ### Team Fortress 2 <br>
 ```js
-!invertcontrols - inverts my controls for 60 seconds | 1,000 Beans
-!killbind - Kills me if i׳m alive | 2,000 Beans
-!pickmyweapon - Pick a weapon for me to play for a match (If I Have It, ask to see all my weapons) | 100 Beans
-!plusforward - forces me to walk forward for 30 seconds | 200 Beans
-!shoot - Fires My Weapon | 50 Beans
+!invertcontrols - inverts my controls for 60 seconds | 500 Beans
+!killbind - Kills me if i׳m alive | 750 Beans
+!pickmyweapon - Pick a weapon for me to play for a match (If I Have It, ask to see all my weapons) | 50 Beans
+!plusforward - forces me to walk forward for 30 seconds | 50 Beans
+!shoot - Fires My Weapon | 10 Beans
 !tf2 - lists my tf2 commands
-!usemelee - pulls out my melee weapon | 50 Beans
-!useprimary - pulls out my primaray weapon | 40 Beans
-!usesecondary - pulls out my secondary | 50 Beans
+!usemelee - pulls out my melee weapon | 30 Beans
+!useprimary - pulls out my primaray weapon | 20 Beans
+!usesecondary - pulls out my secondary
 ``` 
 
 ## Base Commands 
