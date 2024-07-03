@@ -57,7 +57,7 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !tf2 - lists my tf2 commands
 !usemelee - pulls out my melee weapon | 30 Beans
 !useprimary - pulls out my primaray weapon | 20 Beans
-!usesecondary - pulls out my secondary
+!usesecondary - pulls out my secondary | 30 Beans
 ``` 
 
 ## Base Commands 
