@@ -46,18 +46,6 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !ticking - TickTickTickTickTickTickTickTickTick | 1,000 Beans
 !vent - Have you heard of among us | 1,000 Beans
 !welldone - Well Done Gregory | 25 Beans
-```
-### Team Fortress 2 <br>
-```js
-!invertcontrols - inverts my controls for 60 seconds | 500 Beans
-!killbind - Kills me if i׳m alive | 750 Beans
-!pickmyweapon - Pick a weapon for me to play for a match (If I Have It, ask to see all my weapons) | 50 Beans
-!plusforward - forces me to walk forward for 30 seconds | 50 Beans
-!shoot - Fires My Weapon | 10 Beans
-!tf2 - lists my tf2 commands
-!usemelee - pulls out my melee weapon | 30 Beans
-!useprimary - pulls out my primaray weapon | 20 Beans
-!usesecondary - pulls out my secondary | 30 Beans
 ``` 
 
 ## Base Commands 
@@ -93,7 +81,7 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !clearcounter<[MOD]Removes The counter from the capture, does not reset the counter | !clearcounter
 !counter<View/Change the counter for an event |[MOD] !Counter+ |[MOD] !Counter- | Counter
 !about<Get some info | !help about bot !help about creator !help about inspiration
-!about bot<(Running BeanBot.exe v1.3.6) Beanbot׳s goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
+!about bot<(Running BeanBot.exe v1.3.7) Beanbot׳s goal is to replace twitch channel points with built-in games and fully customisable chat-to-game interactions
 !about creator<BeanBot was made by twitch.tv/MasterAirscrach maybe drop a cheeky follow, get it yourself: (masterairscrachdev.itch.io/beanbot)
 !about testers<Huge thanks to twitch.tv/5G_Greek, twitch.tv/xBlustone and twitch.tv/Elppa for letting me test this bot on their channels, and thanks to their viewers for helping me find all the bugs
 !about inspiration<This bot was inspired by the cool commands of twitch.tv/DrTreggles and the amazing chat interaction of twitch.tv/DougDougW
