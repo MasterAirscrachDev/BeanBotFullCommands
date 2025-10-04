@@ -22,7 +22,6 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !github - Funky code site
 !hot - Come on, you know who it is
 !multi - The Multistream link
-!penis - say penis | 1,000,000 Beans
 !server - Info About our minecraft servers
 !trade - My Steam Trade Link
 !waterwolf - Waterwolf Channel Link
@@ -40,7 +39,6 @@ Get Text To Speech | !tts (text) (50 letters per token) <br>
 !laugh - Lol Moment | 100 Beans
 !lego - lego noise | 50 Beans
 !pipe - CRASH | 100 Beans
-!scout - Plays A Random Scout Voiceline | 50 Beans
 !sounds - Here are the sound effects
 !supershit - How׳d you fuck that one up that badly | 25 Beans
 !ticking - TickTickTickTickTickTickTickTickTick | 1,000 Beans
