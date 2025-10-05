@@ -5,6 +5,8 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !Openminigames costs 10000 coins and lasts 6 minutes <br>
 ## Custom Commands <br>
 ```js
+!faah -  I GOT THIS! | 10 coins
+!igotthis -  I GOT THIS! | 5 coins
 !jackpot -  OH YEAH JACK POT JACK POT | 7 coins
 !nocantlaughyet -  dont laugh | 5 coins
 !trunkscomming -  if u wanna annoy me with trunks coming | 10 coins
