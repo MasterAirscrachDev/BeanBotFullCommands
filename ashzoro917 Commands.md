@@ -9,6 +9,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !igotthis -  I GOT THIS! | 5 coins
 !jackpot -  OH YEAH JACK POT JACK POT | 7 coins
 !nocantlaughyet -  dont laugh | 5 coins
+!racist -  if u wanna be racist | 20 coins
 !simon -  LISTEN to simon getting diddled | 30 coins
 !syfm -  SHUT YOUR FUCKING MOUTH! | 20 coins
 !trunkscomming -  if u wanna annoy me with trunks coming | 10 coins
