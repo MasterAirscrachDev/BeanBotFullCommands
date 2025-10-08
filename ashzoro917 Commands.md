@@ -14,6 +14,7 @@ Get Text To Speech | !tts (text) (25 letters per token) <br>
 !syfm -  SHUT YOUR FUCKING MOUTH! | 20 coins
 !trunkscomming -  if u wanna annoy me with trunks coming | 10 coins
 !uneverseeitcoming -  U NEVER SEE IT COMMINNNNGGG!! | 30 coins
+!vegetascream -  vegeta is screaming while getting his ass beat | 100 coins
 !welost -  We lost:( | 40 coins
 ``` 
 
